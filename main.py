@@ -7,7 +7,7 @@ from tkinter import ttk
 
 # Created By Linxi
 # 2024
-# prisoner's dilemma silumation
+# prisoner's dilemma simulation
 # 定义玩家类
 class Player:
     def __init__(self, x, y, aspiration):
