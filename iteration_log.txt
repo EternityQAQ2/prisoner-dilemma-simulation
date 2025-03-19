@@ -1,0 +1,2003 @@
+===== Simulation iteration logs =====
+Iteration 1 -> Cooperators: 2557, Betrayers: 2443, Movers: 2657, Still: 2343
+Iteration 2 -> Cooperators: 2683, Betrayers: 2317, Movers: 2708, Still: 2292
+Iteration 3 -> Cooperators: 2756, Betrayers: 2244, Movers: 2643, Still: 2357
+Iteration 4 -> Cooperators: 2954, Betrayers: 2046, Movers: 2615, Still: 2385
+Iteration 5 -> Cooperators: 2966, Betrayers: 2034, Movers: 2656, Still: 2344
+Iteration 6 -> Cooperators: 2985, Betrayers: 2015, Movers: 2581, Still: 2419
+Iteration 7 -> Cooperators: 3038, Betrayers: 1962, Movers: 2565, Still: 2435
+Iteration 8 -> Cooperators: 3131, Betrayers: 1869, Movers: 2492, Still: 2508
+Iteration 9 -> Cooperators: 3132, Betrayers: 1868, Movers: 2548, Still: 2452
+Iteration 10 -> Cooperators: 3260, Betrayers: 1740, Movers: 2519, Still: 2481
+Iteration 11 -> Cooperators: 3255, Betrayers: 1745, Movers: 2524, Still: 2476
+Iteration 12 -> Cooperators: 3340, Betrayers: 1660, Movers: 2548, Still: 2452
+Iteration 13 -> Cooperators: 3304, Betrayers: 1696, Movers: 2491, Still: 2509
+Iteration 14 -> Cooperators: 3371, Betrayers: 1629, Movers: 2460, Still: 2540
+Iteration 15 -> Cooperators: 3361, Betrayers: 1639, Movers: 2481, Still: 2519
+Iteration 16 -> Cooperators: 3432, Betrayers: 1568, Movers: 2505, Still: 2495
+Iteration 17 -> Cooperators: 3485, Betrayers: 1515, Movers: 2426, Still: 2574
+Iteration 18 -> Cooperators: 3486, Betrayers: 1514, Movers: 2472, Still: 2528
+Iteration 19 -> Cooperators: 3515, Betrayers: 1485, Movers: 2442, Still: 2558
+Iteration 20 -> Cooperators: 3463, Betrayers: 1537, Movers: 2463, Still: 2537
+Iteration 21 -> Cooperators: 3541, Betrayers: 1459, Movers: 2523, Still: 2477
+Iteration 22 -> Cooperators: 3490, Betrayers: 1510, Movers: 2481, Still: 2519
+Iteration 23 -> Cooperators: 3588, Betrayers: 1412, Movers: 2499, Still: 2501
+Iteration 24 -> Cooperators: 3595, Betrayers: 1405, Movers: 2468, Still: 2532
+Iteration 25 -> Cooperators: 3604, Betrayers: 1396, Movers: 2407, Still: 2593
+Iteration 26 -> Cooperators: 3617, Betrayers: 1383, Movers: 2393, Still: 2607
+Iteration 27 -> Cooperators: 3606, Betrayers: 1394, Movers: 2357, Still: 2643
+Iteration 28 -> Cooperators: 3633, Betrayers: 1367, Movers: 2400, Still: 2600
+Iteration 29 -> Cooperators: 3694, Betrayers: 1306, Movers: 2444, Still: 2556
+Iteration 30 -> Cooperators: 3652, Betrayers: 1348, Movers: 2350, Still: 2650
+Iteration 31 -> Cooperators: 3716, Betrayers: 1284, Movers: 2319, Still: 2681
+Iteration 32 -> Cooperators: 3716, Betrayers: 1284, Movers: 2353, Still: 2647
+Iteration 33 -> Cooperators: 3756, Betrayers: 1244, Movers: 2328, Still: 2672
+Iteration 34 -> Cooperators: 3716, Betrayers: 1284, Movers: 2375, Still: 2625
+Iteration 35 -> Cooperators: 3712, Betrayers: 1288, Movers: 2325, Still: 2675
+Iteration 36 -> Cooperators: 3748, Betrayers: 1252, Movers: 2319, Still: 2681
+Iteration 37 -> Cooperators: 3745, Betrayers: 1255, Movers: 2323, Still: 2677
+Iteration 38 -> Cooperators: 3776, Betrayers: 1224, Movers: 2353, Still: 2647
+Iteration 39 -> Cooperators: 3851, Betrayers: 1149, Movers: 2324, Still: 2676
+Iteration 40 -> Cooperators: 3874, Betrayers: 1126, Movers: 2323, Still: 2677
+Iteration 41 -> Cooperators: 3827, Betrayers: 1173, Movers: 2330, Still: 2670
+Iteration 42 -> Cooperators: 3813, Betrayers: 1187, Movers: 2255, Still: 2745
+Iteration 43 -> Cooperators: 3845, Betrayers: 1155, Movers: 2293, Still: 2707
+Iteration 44 -> Cooperators: 3855, Betrayers: 1145, Movers: 2293, Still: 2707
+Iteration 45 -> Cooperators: 3868, Betrayers: 1132, Movers: 2301, Still: 2699
+Iteration 46 -> Cooperators: 3811, Betrayers: 1189, Movers: 2297, Still: 2703
+Iteration 47 -> Cooperators: 3835, Betrayers: 1165, Movers: 2241, Still: 2759
+Iteration 48 -> Cooperators: 3834, Betrayers: 1166, Movers: 2275, Still: 2725
+Iteration 49 -> Cooperators: 3906, Betrayers: 1094, Movers: 2215, Still: 2785
+Iteration 50 -> Cooperators: 3854, Betrayers: 1146, Movers: 2212, Still: 2788
+Iteration 51 -> Cooperators: 3859, Betrayers: 1141, Movers: 2263, Still: 2737
+Iteration 52 -> Cooperators: 3848, Betrayers: 1152, Movers: 2216, Still: 2784
+Iteration 53 -> Cooperators: 3871, Betrayers: 1129, Movers: 2216, Still: 2784
+Iteration 54 -> Cooperators: 3850, Betrayers: 1150, Movers: 2266, Still: 2734
+Iteration 55 -> Cooperators: 3822, Betrayers: 1178, Movers: 2229, Still: 2771
+Iteration 56 -> Cooperators: 3917, Betrayers: 1083, Movers: 2237, Still: 2763
+Iteration 57 -> Cooperators: 3837, Betrayers: 1163, Movers: 2165, Still: 2835
+Iteration 58 -> Cooperators: 3921, Betrayers: 1079, Movers: 2165, Still: 2835
+Iteration 59 -> Cooperators: 3864, Betrayers: 1136, Movers: 2165, Still: 2835
+Iteration 60 -> Cooperators: 3889, Betrayers: 1111, Movers: 2182, Still: 2818
+Iteration 61 -> Cooperators: 3929, Betrayers: 1071, Movers: 2186, Still: 2814
+Iteration 62 -> Cooperators: 3909, Betrayers: 1091, Movers: 2198, Still: 2802
+Iteration 63 -> Cooperators: 3925, Betrayers: 1075, Movers: 2165, Still: 2835
+Iteration 64 -> Cooperators: 3918, Betrayers: 1082, Movers: 2145, Still: 2855
+Iteration 65 -> Cooperators: 3869, Betrayers: 1131, Movers: 2130, Still: 2870
+Iteration 66 -> Cooperators: 3897, Betrayers: 1103, Movers: 2220, Still: 2780
+Iteration 67 -> Cooperators: 3910, Betrayers: 1090, Movers: 2156, Still: 2844
+Iteration 68 -> Cooperators: 3888, Betrayers: 1112, Movers: 2078, Still: 2922
+Iteration 69 -> Cooperators: 3903, Betrayers: 1097, Movers: 2172, Still: 2828
+Iteration 70 -> Cooperators: 3909, Betrayers: 1091, Movers: 2116, Still: 2884
+Iteration 71 -> Cooperators: 3892, Betrayers: 1108, Movers: 2060, Still: 2940
+Iteration 72 -> Cooperators: 3901, Betrayers: 1099, Movers: 2077, Still: 2923
+Iteration 73 -> Cooperators: 3891, Betrayers: 1109, Movers: 2131, Still: 2869
+Iteration 74 -> Cooperators: 3902, Betrayers: 1098, Movers: 2091, Still: 2909
+Iteration 75 -> Cooperators: 3915, Betrayers: 1085, Movers: 2102, Still: 2898
+Iteration 76 -> Cooperators: 3946, Betrayers: 1054, Movers: 2107, Still: 2893
+Iteration 77 -> Cooperators: 3871, Betrayers: 1129, Movers: 2059, Still: 2941
+Iteration 78 -> Cooperators: 3904, Betrayers: 1096, Movers: 2083, Still: 2917
+Iteration 79 -> Cooperators: 3937, Betrayers: 1063, Movers: 2015, Still: 2985
+Iteration 80 -> Cooperators: 3920, Betrayers: 1080, Movers: 2042, Still: 2958
+Iteration 81 -> Cooperators: 3874, Betrayers: 1126, Movers: 2089, Still: 2911
+Iteration 82 -> Cooperators: 3854, Betrayers: 1146, Movers: 2070, Still: 2930
+Iteration 83 -> Cooperators: 3853, Betrayers: 1147, Movers: 2102, Still: 2898
+Iteration 84 -> Cooperators: 3867, Betrayers: 1133, Movers: 1994, Still: 3006
+Iteration 85 -> Cooperators: 3891, Betrayers: 1109, Movers: 2024, Still: 2976
+Iteration 86 -> Cooperators: 3888, Betrayers: 1112, Movers: 2002, Still: 2998
+Iteration 87 -> Cooperators: 3841, Betrayers: 1159, Movers: 2041, Still: 2959
+Iteration 88 -> Cooperators: 3833, Betrayers: 1167, Movers: 2055, Still: 2945
+Iteration 89 -> Cooperators: 3885, Betrayers: 1115, Movers: 1941, Still: 3059
+Iteration 90 -> Cooperators: 3877, Betrayers: 1123, Movers: 1954, Still: 3046
+Iteration 91 -> Cooperators: 3828, Betrayers: 1172, Movers: 1923, Still: 3077
+Iteration 92 -> Cooperators: 3888, Betrayers: 1112, Movers: 1890, Still: 3110
+Iteration 93 -> Cooperators: 3881, Betrayers: 1119, Movers: 1922, Still: 3078
+Iteration 94 -> Cooperators: 3909, Betrayers: 1091, Movers: 1967, Still: 3033
+Iteration 95 -> Cooperators: 3852, Betrayers: 1148, Movers: 1904, Still: 3096
+Iteration 96 -> Cooperators: 3860, Betrayers: 1140, Movers: 1921, Still: 3079
+Iteration 97 -> Cooperators: 3874, Betrayers: 1126, Movers: 1922, Still: 3078
+Iteration 98 -> Cooperators: 3878, Betrayers: 1122, Movers: 1896, Still: 3104
+Iteration 99 -> Cooperators: 3836, Betrayers: 1164, Movers: 1925, Still: 3075
+Iteration 100 -> Cooperators: 3889, Betrayers: 1111, Movers: 1864, Still: 3136
+Iteration 101 -> Cooperators: 3878, Betrayers: 1122, Movers: 1842, Still: 3158
+Iteration 102 -> Cooperators: 3897, Betrayers: 1103, Movers: 1898, Still: 3102
+Iteration 103 -> Cooperators: 3890, Betrayers: 1110, Movers: 1856, Still: 3144
+Iteration 104 -> Cooperators: 3853, Betrayers: 1147, Movers: 1829, Still: 3171
+Iteration 105 -> Cooperators: 3898, Betrayers: 1102, Movers: 1865, Still: 3135
+Iteration 106 -> Cooperators: 3886, Betrayers: 1114, Movers: 1819, Still: 3181
+Iteration 107 -> Cooperators: 3866, Betrayers: 1134, Movers: 1807, Still: 3193
+Iteration 108 -> Cooperators: 3917, Betrayers: 1083, Movers: 1800, Still: 3200
+Iteration 109 -> Cooperators: 3874, Betrayers: 1126, Movers: 1844, Still: 3156
+Iteration 110 -> Cooperators: 3877, Betrayers: 1123, Movers: 1820, Still: 3180
+Iteration 111 -> Cooperators: 3872, Betrayers: 1128, Movers: 1790, Still: 3210
+Iteration 112 -> Cooperators: 3866, Betrayers: 1134, Movers: 1774, Still: 3226
+Iteration 113 -> Cooperators: 3895, Betrayers: 1105, Movers: 1786, Still: 3214
+Iteration 114 -> Cooperators: 3929, Betrayers: 1071, Movers: 1813, Still: 3187
+Iteration 115 -> Cooperators: 3865, Betrayers: 1135, Movers: 1854, Still: 3146
+Iteration 116 -> Cooperators: 3930, Betrayers: 1070, Movers: 1798, Still: 3202
+Iteration 117 -> Cooperators: 3940, Betrayers: 1060, Movers: 1789, Still: 3211
+Iteration 118 -> Cooperators: 3901, Betrayers: 1099, Movers: 1776, Still: 3224
+Iteration 119 -> Cooperators: 3885, Betrayers: 1115, Movers: 1802, Still: 3198
+Iteration 120 -> Cooperators: 3926, Betrayers: 1074, Movers: 1769, Still: 3231
+Iteration 121 -> Cooperators: 3870, Betrayers: 1130, Movers: 1759, Still: 3241
+Iteration 122 -> Cooperators: 3923, Betrayers: 1077, Movers: 1743, Still: 3257
+Iteration 123 -> Cooperators: 3927, Betrayers: 1073, Movers: 1755, Still: 3245
+Iteration 124 -> Cooperators: 3931, Betrayers: 1069, Movers: 1740, Still: 3260
+Iteration 125 -> Cooperators: 3853, Betrayers: 1147, Movers: 1763, Still: 3237
+Iteration 126 -> Cooperators: 3846, Betrayers: 1154, Movers: 1718, Still: 3282
+Iteration 127 -> Cooperators: 3927, Betrayers: 1073, Movers: 1686, Still: 3314
+Iteration 128 -> Cooperators: 3900, Betrayers: 1100, Movers: 1696, Still: 3304
+Iteration 129 -> Cooperators: 3864, Betrayers: 1136, Movers: 1705, Still: 3295
+Iteration 130 -> Cooperators: 3865, Betrayers: 1135, Movers: 1718, Still: 3282
+Iteration 131 -> Cooperators: 3870, Betrayers: 1130, Movers: 1685, Still: 3315
+Iteration 132 -> Cooperators: 3869, Betrayers: 1131, Movers: 1683, Still: 3317
+Iteration 133 -> Cooperators: 3931, Betrayers: 1069, Movers: 1669, Still: 3331
+Iteration 134 -> Cooperators: 3833, Betrayers: 1167, Movers: 1653, Still: 3347
+Iteration 135 -> Cooperators: 3889, Betrayers: 1111, Movers: 1647, Still: 3353
+Iteration 136 -> Cooperators: 3885, Betrayers: 1115, Movers: 1678, Still: 3322
+Iteration 137 -> Cooperators: 3871, Betrayers: 1129, Movers: 1673, Still: 3327
+Iteration 138 -> Cooperators: 3916, Betrayers: 1084, Movers: 1648, Still: 3352
+Iteration 139 -> Cooperators: 3854, Betrayers: 1146, Movers: 1638, Still: 3362
+Iteration 140 -> Cooperators: 3943, Betrayers: 1057, Movers: 1631, Still: 3369
+Iteration 141 -> Cooperators: 3919, Betrayers: 1081, Movers: 1623, Still: 3377
+Iteration 142 -> Cooperators: 3919, Betrayers: 1081, Movers: 1638, Still: 3362
+Iteration 143 -> Cooperators: 3876, Betrayers: 1124, Movers: 1642, Still: 3358
+Iteration 144 -> Cooperators: 3872, Betrayers: 1128, Movers: 1653, Still: 3347
+Iteration 145 -> Cooperators: 3928, Betrayers: 1072, Movers: 1618, Still: 3382
+Iteration 146 -> Cooperators: 3877, Betrayers: 1123, Movers: 1649, Still: 3351
+Iteration 147 -> Cooperators: 3911, Betrayers: 1089, Movers: 1616, Still: 3384
+Iteration 148 -> Cooperators: 3874, Betrayers: 1126, Movers: 1610, Still: 3390
+Iteration 149 -> Cooperators: 3915, Betrayers: 1085, Movers: 1569, Still: 3431
+Iteration 150 -> Cooperators: 3926, Betrayers: 1074, Movers: 1612, Still: 3388
+Iteration 151 -> Cooperators: 3900, Betrayers: 1100, Movers: 1587, Still: 3413
+Iteration 152 -> Cooperators: 3884, Betrayers: 1116, Movers: 1562, Still: 3438
+Iteration 153 -> Cooperators: 3902, Betrayers: 1098, Movers: 1573, Still: 3427
+Iteration 154 -> Cooperators: 3908, Betrayers: 1092, Movers: 1563, Still: 3437
+Iteration 155 -> Cooperators: 3934, Betrayers: 1066, Movers: 1510, Still: 3490
+Iteration 156 -> Cooperators: 3955, Betrayers: 1045, Movers: 1506, Still: 3494
+Iteration 157 -> Cooperators: 3918, Betrayers: 1082, Movers: 1519, Still: 3481
+Iteration 158 -> Cooperators: 3867, Betrayers: 1133, Movers: 1485, Still: 3515
+Iteration 159 -> Cooperators: 3882, Betrayers: 1118, Movers: 1531, Still: 3469
+Iteration 160 -> Cooperators: 3942, Betrayers: 1058, Movers: 1495, Still: 3505
+Iteration 161 -> Cooperators: 3913, Betrayers: 1087, Movers: 1523, Still: 3477
+Iteration 162 -> Cooperators: 3905, Betrayers: 1095, Movers: 1544, Still: 3456
+Iteration 163 -> Cooperators: 3944, Betrayers: 1056, Movers: 1506, Still: 3494
+Iteration 164 -> Cooperators: 3921, Betrayers: 1079, Movers: 1489, Still: 3511
+Iteration 165 -> Cooperators: 3888, Betrayers: 1112, Movers: 1484, Still: 3516
+Iteration 166 -> Cooperators: 3924, Betrayers: 1076, Movers: 1449, Still: 3551
+Iteration 167 -> Cooperators: 3912, Betrayers: 1088, Movers: 1531, Still: 3469
+Iteration 168 -> Cooperators: 3873, Betrayers: 1127, Movers: 1473, Still: 3527
+Iteration 169 -> Cooperators: 3923, Betrayers: 1077, Movers: 1468, Still: 3532
+Iteration 170 -> Cooperators: 3941, Betrayers: 1059, Movers: 1458, Still: 3542
+Iteration 171 -> Cooperators: 3916, Betrayers: 1084, Movers: 1470, Still: 3530
+Iteration 172 -> Cooperators: 3922, Betrayers: 1078, Movers: 1489, Still: 3511
+Iteration 173 -> Cooperators: 3929, Betrayers: 1071, Movers: 1410, Still: 3590
+Iteration 174 -> Cooperators: 3901, Betrayers: 1099, Movers: 1428, Still: 3572
+Iteration 175 -> Cooperators: 3903, Betrayers: 1097, Movers: 1448, Still: 3552
+Iteration 176 -> Cooperators: 3921, Betrayers: 1079, Movers: 1394, Still: 3606
+Iteration 177 -> Cooperators: 3884, Betrayers: 1116, Movers: 1366, Still: 3634
+Iteration 178 -> Cooperators: 3944, Betrayers: 1056, Movers: 1386, Still: 3614
+Iteration 179 -> Cooperators: 3931, Betrayers: 1069, Movers: 1379, Still: 3621
+Iteration 180 -> Cooperators: 3922, Betrayers: 1078, Movers: 1404, Still: 3596
+Iteration 181 -> Cooperators: 3932, Betrayers: 1068, Movers: 1395, Still: 3605
+Iteration 182 -> Cooperators: 3963, Betrayers: 1037, Movers: 1406, Still: 3594
+Iteration 183 -> Cooperators: 3933, Betrayers: 1067, Movers: 1346, Still: 3654
+Iteration 184 -> Cooperators: 3953, Betrayers: 1047, Movers: 1382, Still: 3618
+Iteration 185 -> Cooperators: 3983, Betrayers: 1017, Movers: 1363, Still: 3637
+Iteration 186 -> Cooperators: 3929, Betrayers: 1071, Movers: 1355, Still: 3645
+Iteration 187 -> Cooperators: 3937, Betrayers: 1063, Movers: 1371, Still: 3629
+Iteration 188 -> Cooperators: 3934, Betrayers: 1066, Movers: 1361, Still: 3639
+Iteration 189 -> Cooperators: 3940, Betrayers: 1060, Movers: 1336, Still: 3664
+Iteration 190 -> Cooperators: 3937, Betrayers: 1063, Movers: 1347, Still: 3653
+Iteration 191 -> Cooperators: 3955, Betrayers: 1045, Movers: 1349, Still: 3651
+Iteration 192 -> Cooperators: 3970, Betrayers: 1030, Movers: 1326, Still: 3674
+Iteration 193 -> Cooperators: 3933, Betrayers: 1067, Movers: 1326, Still: 3674
+Iteration 194 -> Cooperators: 3970, Betrayers: 1030, Movers: 1328, Still: 3672
+Iteration 195 -> Cooperators: 3938, Betrayers: 1062, Movers: 1317, Still: 3683
+Iteration 196 -> Cooperators: 3956, Betrayers: 1044, Movers: 1293, Still: 3707
+Iteration 197 -> Cooperators: 4003, Betrayers: 997, Movers: 1321, Still: 3679
+Iteration 198 -> Cooperators: 3934, Betrayers: 1066, Movers: 1290, Still: 3710
+Iteration 199 -> Cooperators: 3964, Betrayers: 1036, Movers: 1308, Still: 3692
+Iteration 200 -> Cooperators: 3957, Betrayers: 1043, Movers: 1332, Still: 3668
+Iteration 201 -> Cooperators: 3930, Betrayers: 1070, Movers: 1301, Still: 3699
+Iteration 202 -> Cooperators: 3954, Betrayers: 1046, Movers: 1286, Still: 3714
+Iteration 203 -> Cooperators: 3983, Betrayers: 1017, Movers: 1257, Still: 3743
+Iteration 204 -> Cooperators: 3944, Betrayers: 1056, Movers: 1274, Still: 3726
+Iteration 205 -> Cooperators: 3934, Betrayers: 1066, Movers: 1326, Still: 3674
+Iteration 206 -> Cooperators: 3964, Betrayers: 1036, Movers: 1255, Still: 3745
+Iteration 207 -> Cooperators: 3956, Betrayers: 1044, Movers: 1257, Still: 3743
+Iteration 208 -> Cooperators: 4005, Betrayers: 995, Movers: 1236, Still: 3764
+Iteration 209 -> Cooperators: 4004, Betrayers: 996, Movers: 1216, Still: 3784
+Iteration 210 -> Cooperators: 3944, Betrayers: 1056, Movers: 1288, Still: 3712
+Iteration 211 -> Cooperators: 3965, Betrayers: 1035, Movers: 1219, Still: 3781
+Iteration 212 -> Cooperators: 3982, Betrayers: 1018, Movers: 1155, Still: 3845
+Iteration 213 -> Cooperators: 3981, Betrayers: 1019, Movers: 1221, Still: 3779
+Iteration 214 -> Cooperators: 3956, Betrayers: 1044, Movers: 1214, Still: 3786
+Iteration 215 -> Cooperators: 4002, Betrayers: 998, Movers: 1182, Still: 3818
+Iteration 216 -> Cooperators: 4004, Betrayers: 996, Movers: 1207, Still: 3793
+Iteration 217 -> Cooperators: 3975, Betrayers: 1025, Movers: 1212, Still: 3788
+Iteration 218 -> Cooperators: 3979, Betrayers: 1021, Movers: 1195, Still: 3805
+Iteration 219 -> Cooperators: 3981, Betrayers: 1019, Movers: 1144, Still: 3856
+Iteration 220 -> Cooperators: 3959, Betrayers: 1041, Movers: 1187, Still: 3813
+Iteration 221 -> Cooperators: 3990, Betrayers: 1010, Movers: 1160, Still: 3840
+Iteration 222 -> Cooperators: 3965, Betrayers: 1035, Movers: 1158, Still: 3842
+Iteration 223 -> Cooperators: 3977, Betrayers: 1023, Movers: 1124, Still: 3876
+Iteration 224 -> Cooperators: 4000, Betrayers: 1000, Movers: 1151, Still: 3849
+Iteration 225 -> Cooperators: 4014, Betrayers: 986, Movers: 1142, Still: 3858
+Iteration 226 -> Cooperators: 3966, Betrayers: 1034, Movers: 1146, Still: 3854
+Iteration 227 -> Cooperators: 4006, Betrayers: 994, Movers: 1146, Still: 3854
+Iteration 228 -> Cooperators: 3998, Betrayers: 1002, Movers: 1156, Still: 3844
+Iteration 229 -> Cooperators: 3979, Betrayers: 1021, Movers: 1115, Still: 3885
+Iteration 230 -> Cooperators: 3997, Betrayers: 1003, Movers: 1120, Still: 3880
+Iteration 231 -> Cooperators: 3969, Betrayers: 1031, Movers: 1149, Still: 3851
+Iteration 232 -> Cooperators: 3982, Betrayers: 1018, Movers: 1139, Still: 3861
+Iteration 233 -> Cooperators: 4017, Betrayers: 983, Movers: 1080, Still: 3920
+Iteration 234 -> Cooperators: 3987, Betrayers: 1013, Movers: 1143, Still: 3857
+Iteration 235 -> Cooperators: 3995, Betrayers: 1005, Movers: 1128, Still: 3872
+Iteration 236 -> Cooperators: 3980, Betrayers: 1020, Movers: 1106, Still: 3894
+Iteration 237 -> Cooperators: 4008, Betrayers: 992, Movers: 1090, Still: 3910
+Iteration 238 -> Cooperators: 4024, Betrayers: 976, Movers: 1097, Still: 3903
+Iteration 239 -> Cooperators: 3983, Betrayers: 1017, Movers: 1089, Still: 3911
+Iteration 240 -> Cooperators: 3994, Betrayers: 1006, Movers: 1069, Still: 3931
+Iteration 241 -> Cooperators: 3987, Betrayers: 1013, Movers: 1102, Still: 3898
+Iteration 242 -> Cooperators: 3994, Betrayers: 1006, Movers: 1092, Still: 3908
+Iteration 243 -> Cooperators: 4045, Betrayers: 955, Movers: 1059, Still: 3941
+Iteration 244 -> Cooperators: 4016, Betrayers: 984, Movers: 1048, Still: 3952
+Iteration 245 -> Cooperators: 4000, Betrayers: 1000, Movers: 1081, Still: 3919
+Iteration 246 -> Cooperators: 3965, Betrayers: 1035, Movers: 1038, Still: 3962
+Iteration 247 -> Cooperators: 4040, Betrayers: 960, Movers: 1100, Still: 3900
+Iteration 248 -> Cooperators: 4038, Betrayers: 962, Movers: 1125, Still: 3875
+Iteration 249 -> Cooperators: 4007, Betrayers: 993, Movers: 1060, Still: 3940
+Iteration 250 -> Cooperators: 4014, Betrayers: 986, Movers: 1084, Still: 3916
+Iteration 251 -> Cooperators: 4022, Betrayers: 978, Movers: 1056, Still: 3944
+Iteration 252 -> Cooperators: 4070, Betrayers: 930, Movers: 1037, Still: 3963
+Iteration 253 -> Cooperators: 4070, Betrayers: 930, Movers: 1021, Still: 3979
+Iteration 254 -> Cooperators: 4036, Betrayers: 964, Movers: 993, Still: 4007
+Iteration 255 -> Cooperators: 4054, Betrayers: 946, Movers: 1007, Still: 3993
+Iteration 256 -> Cooperators: 4044, Betrayers: 956, Movers: 1015, Still: 3985
+Iteration 257 -> Cooperators: 4058, Betrayers: 942, Movers: 1057, Still: 3943
+Iteration 258 -> Cooperators: 4031, Betrayers: 969, Movers: 1025, Still: 3975
+Iteration 259 -> Cooperators: 4085, Betrayers: 915, Movers: 1040, Still: 3960
+Iteration 260 -> Cooperators: 4063, Betrayers: 937, Movers: 1011, Still: 3989
+Iteration 261 -> Cooperators: 4031, Betrayers: 969, Movers: 1012, Still: 3988
+Iteration 262 -> Cooperators: 4027, Betrayers: 973, Movers: 1023, Still: 3977
+Iteration 263 -> Cooperators: 4052, Betrayers: 948, Movers: 976, Still: 4024
+Iteration 264 -> Cooperators: 4051, Betrayers: 949, Movers: 956, Still: 4044
+Iteration 265 -> Cooperators: 4093, Betrayers: 907, Movers: 960, Still: 4040
+Iteration 266 -> Cooperators: 4045, Betrayers: 955, Movers: 983, Still: 4017
+Iteration 267 -> Cooperators: 4032, Betrayers: 968, Movers: 987, Still: 4013
+Iteration 268 -> Cooperators: 4090, Betrayers: 910, Movers: 975, Still: 4025
+Iteration 269 -> Cooperators: 4043, Betrayers: 957, Movers: 972, Still: 4028
+Iteration 270 -> Cooperators: 4081, Betrayers: 919, Movers: 977, Still: 4023
+Iteration 271 -> Cooperators: 4078, Betrayers: 922, Movers: 928, Still: 4072
+Iteration 272 -> Cooperators: 4059, Betrayers: 941, Movers: 960, Still: 4040
+Iteration 273 -> Cooperators: 3994, Betrayers: 1006, Movers: 933, Still: 4067
+Iteration 274 -> Cooperators: 4034, Betrayers: 966, Movers: 988, Still: 4012
+Iteration 275 -> Cooperators: 4070, Betrayers: 930, Movers: 935, Still: 4065
+Iteration 276 -> Cooperators: 4106, Betrayers: 894, Movers: 976, Still: 4024
+Iteration 277 -> Cooperators: 4065, Betrayers: 935, Movers: 955, Still: 4045
+Iteration 278 -> Cooperators: 4065, Betrayers: 935, Movers: 953, Still: 4047
+Iteration 279 -> Cooperators: 4043, Betrayers: 957, Movers: 906, Still: 4094
+Iteration 280 -> Cooperators: 4065, Betrayers: 935, Movers: 935, Still: 4065
+Iteration 281 -> Cooperators: 4086, Betrayers: 914, Movers: 918, Still: 4082
+Iteration 282 -> Cooperators: 4075, Betrayers: 925, Movers: 927, Still: 4073
+Iteration 283 -> Cooperators: 4046, Betrayers: 954, Movers: 882, Still: 4118
+Iteration 284 -> Cooperators: 4062, Betrayers: 938, Movers: 926, Still: 4074
+Iteration 285 -> Cooperators: 4083, Betrayers: 917, Movers: 908, Still: 4092
+Iteration 286 -> Cooperators: 4077, Betrayers: 923, Movers: 900, Still: 4100
+Iteration 287 -> Cooperators: 4072, Betrayers: 928, Movers: 904, Still: 4096
+Iteration 288 -> Cooperators: 4075, Betrayers: 925, Movers: 916, Still: 4084
+Iteration 289 -> Cooperators: 4069, Betrayers: 931, Movers: 930, Still: 4070
+Iteration 290 -> Cooperators: 4055, Betrayers: 945, Movers: 908, Still: 4092
+Iteration 291 -> Cooperators: 4075, Betrayers: 925, Movers: 888, Still: 4112
+Iteration 292 -> Cooperators: 4074, Betrayers: 926, Movers: 893, Still: 4107
+Iteration 293 -> Cooperators: 4049, Betrayers: 951, Movers: 883, Still: 4117
+Iteration 294 -> Cooperators: 4113, Betrayers: 887, Movers: 914, Still: 4086
+Iteration 295 -> Cooperators: 4065, Betrayers: 935, Movers: 897, Still: 4103
+Iteration 296 -> Cooperators: 4083, Betrayers: 917, Movers: 913, Still: 4087
+Iteration 297 -> Cooperators: 4090, Betrayers: 910, Movers: 870, Still: 4130
+Iteration 298 -> Cooperators: 4100, Betrayers: 900, Movers: 897, Still: 4103
+Iteration 299 -> Cooperators: 4084, Betrayers: 916, Movers: 873, Still: 4127
+Iteration 300 -> Cooperators: 4102, Betrayers: 898, Movers: 871, Still: 4129
+Iteration 301 -> Cooperators: 4088, Betrayers: 912, Movers: 867, Still: 4133
+Iteration 302 -> Cooperators: 4081, Betrayers: 919, Movers: 843, Still: 4157
+Iteration 303 -> Cooperators: 4091, Betrayers: 909, Movers: 850, Still: 4150
+Iteration 304 -> Cooperators: 4088, Betrayers: 912, Movers: 859, Still: 4141
+Iteration 305 -> Cooperators: 4088, Betrayers: 912, Movers: 816, Still: 4184
+Iteration 306 -> Cooperators: 4108, Betrayers: 892, Movers: 897, Still: 4103
+Iteration 307 -> Cooperators: 4055, Betrayers: 945, Movers: 859, Still: 4141
+Iteration 308 -> Cooperators: 4072, Betrayers: 928, Movers: 830, Still: 4170
+Iteration 309 -> Cooperators: 4081, Betrayers: 919, Movers: 847, Still: 4153
+Iteration 310 -> Cooperators: 4080, Betrayers: 920, Movers: 863, Still: 4137
+Iteration 311 -> Cooperators: 4097, Betrayers: 903, Movers: 815, Still: 4185
+Iteration 312 -> Cooperators: 4100, Betrayers: 900, Movers: 831, Still: 4169
+Iteration 313 -> Cooperators: 4096, Betrayers: 904, Movers: 838, Still: 4162
+Iteration 314 -> Cooperators: 4095, Betrayers: 905, Movers: 893, Still: 4107
+Iteration 315 -> Cooperators: 4096, Betrayers: 904, Movers: 828, Still: 4172
+Iteration 316 -> Cooperators: 4104, Betrayers: 896, Movers: 819, Still: 4181
+Iteration 317 -> Cooperators: 4085, Betrayers: 915, Movers: 823, Still: 4177
+Iteration 318 -> Cooperators: 4124, Betrayers: 876, Movers: 834, Still: 4166
+Iteration 319 -> Cooperators: 4114, Betrayers: 886, Movers: 852, Still: 4148
+Iteration 320 -> Cooperators: 4090, Betrayers: 910, Movers: 822, Still: 4178
+Iteration 321 -> Cooperators: 4090, Betrayers: 910, Movers: 873, Still: 4127
+Iteration 322 -> Cooperators: 4107, Betrayers: 893, Movers: 817, Still: 4183
+Iteration 323 -> Cooperators: 4111, Betrayers: 889, Movers: 823, Still: 4177
+Iteration 324 -> Cooperators: 4099, Betrayers: 901, Movers: 819, Still: 4181
+Iteration 325 -> Cooperators: 4103, Betrayers: 897, Movers: 824, Still: 4176
+Iteration 326 -> Cooperators: 4115, Betrayers: 885, Movers: 844, Still: 4156
+Iteration 327 -> Cooperators: 4134, Betrayers: 866, Movers: 825, Still: 4175
+Iteration 328 -> Cooperators: 4084, Betrayers: 916, Movers: 812, Still: 4188
+Iteration 329 -> Cooperators: 4109, Betrayers: 891, Movers: 781, Still: 4219
+Iteration 330 -> Cooperators: 4095, Betrayers: 905, Movers: 806, Still: 4194
+Iteration 331 -> Cooperators: 4096, Betrayers: 904, Movers: 801, Still: 4199
+Iteration 332 -> Cooperators: 4111, Betrayers: 889, Movers: 812, Still: 4188
+Iteration 333 -> Cooperators: 4121, Betrayers: 879, Movers: 819, Still: 4181
+Iteration 334 -> Cooperators: 4124, Betrayers: 876, Movers: 767, Still: 4233
+Iteration 335 -> Cooperators: 4124, Betrayers: 876, Movers: 792, Still: 4208
+Iteration 336 -> Cooperators: 4076, Betrayers: 924, Movers: 744, Still: 4256
+Iteration 337 -> Cooperators: 4112, Betrayers: 888, Movers: 811, Still: 4189
+Iteration 338 -> Cooperators: 4101, Betrayers: 899, Movers: 771, Still: 4229
+Iteration 339 -> Cooperators: 4125, Betrayers: 875, Movers: 769, Still: 4231
+Iteration 340 -> Cooperators: 4076, Betrayers: 924, Movers: 775, Still: 4225
+Iteration 341 -> Cooperators: 4107, Betrayers: 893, Movers: 772, Still: 4228
+Iteration 342 -> Cooperators: 4113, Betrayers: 887, Movers: 774, Still: 4226
+Iteration 343 -> Cooperators: 4110, Betrayers: 890, Movers: 759, Still: 4241
+Iteration 344 -> Cooperators: 4115, Betrayers: 885, Movers: 730, Still: 4270
+Iteration 345 -> Cooperators: 4149, Betrayers: 851, Movers: 746, Still: 4254
+Iteration 346 -> Cooperators: 4134, Betrayers: 866, Movers: 731, Still: 4269
+Iteration 347 -> Cooperators: 4126, Betrayers: 874, Movers: 760, Still: 4240
+Iteration 348 -> Cooperators: 4119, Betrayers: 881, Movers: 745, Still: 4255
+Iteration 349 -> Cooperators: 4123, Betrayers: 877, Movers: 728, Still: 4272
+Iteration 350 -> Cooperators: 4149, Betrayers: 851, Movers: 765, Still: 4235
+Iteration 351 -> Cooperators: 4127, Betrayers: 873, Movers: 716, Still: 4284
+Iteration 352 -> Cooperators: 4121, Betrayers: 879, Movers: 791, Still: 4209
+Iteration 353 -> Cooperators: 4124, Betrayers: 876, Movers: 733, Still: 4267
+Iteration 354 -> Cooperators: 4120, Betrayers: 880, Movers: 723, Still: 4277
+Iteration 355 -> Cooperators: 4131, Betrayers: 869, Movers: 737, Still: 4263
+Iteration 356 -> Cooperators: 4123, Betrayers: 877, Movers: 723, Still: 4277
+Iteration 357 -> Cooperators: 4141, Betrayers: 859, Movers: 715, Still: 4285
+Iteration 358 -> Cooperators: 4152, Betrayers: 848, Movers: 729, Still: 4271
+Iteration 359 -> Cooperators: 4125, Betrayers: 875, Movers: 728, Still: 4272
+Iteration 360 -> Cooperators: 4131, Betrayers: 869, Movers: 722, Still: 4278
+Iteration 361 -> Cooperators: 4131, Betrayers: 869, Movers: 733, Still: 4267
+Iteration 362 -> Cooperators: 4144, Betrayers: 856, Movers: 718, Still: 4282
+Iteration 363 -> Cooperators: 4142, Betrayers: 858, Movers: 688, Still: 4312
+Iteration 364 -> Cooperators: 4142, Betrayers: 858, Movers: 722, Still: 4278
+Iteration 365 -> Cooperators: 4125, Betrayers: 875, Movers: 664, Still: 4336
+Iteration 366 -> Cooperators: 4143, Betrayers: 857, Movers: 697, Still: 4303
+Iteration 367 -> Cooperators: 4147, Betrayers: 853, Movers: 724, Still: 4276
+Iteration 368 -> Cooperators: 4134, Betrayers: 866, Movers: 677, Still: 4323
+Iteration 369 -> Cooperators: 4131, Betrayers: 869, Movers: 703, Still: 4297
+Iteration 370 -> Cooperators: 4157, Betrayers: 843, Movers: 713, Still: 4287
+Iteration 371 -> Cooperators: 4148, Betrayers: 852, Movers: 679, Still: 4321
+Iteration 372 -> Cooperators: 4140, Betrayers: 860, Movers: 693, Still: 4307
+Iteration 373 -> Cooperators: 4121, Betrayers: 879, Movers: 666, Still: 4334
+Iteration 374 -> Cooperators: 4155, Betrayers: 845, Movers: 664, Still: 4336
+Iteration 375 -> Cooperators: 4151, Betrayers: 849, Movers: 639, Still: 4361
+Iteration 376 -> Cooperators: 4131, Betrayers: 869, Movers: 683, Still: 4317
+Iteration 377 -> Cooperators: 4146, Betrayers: 854, Movers: 676, Still: 4324
+Iteration 378 -> Cooperators: 4143, Betrayers: 857, Movers: 656, Still: 4344
+Iteration 379 -> Cooperators: 4166, Betrayers: 834, Movers: 693, Still: 4307
+Iteration 380 -> Cooperators: 4170, Betrayers: 830, Movers: 674, Still: 4326
+Iteration 381 -> Cooperators: 4143, Betrayers: 857, Movers: 641, Still: 4359
+Iteration 382 -> Cooperators: 4197, Betrayers: 803, Movers: 680, Still: 4320
+Iteration 383 -> Cooperators: 4135, Betrayers: 865, Movers: 652, Still: 4348
+Iteration 384 -> Cooperators: 4172, Betrayers: 828, Movers: 650, Still: 4350
+Iteration 385 -> Cooperators: 4164, Betrayers: 836, Movers: 629, Still: 4371
+Iteration 386 -> Cooperators: 4201, Betrayers: 799, Movers: 627, Still: 4373
+Iteration 387 -> Cooperators: 4151, Betrayers: 849, Movers: 655, Still: 4345
+Iteration 388 -> Cooperators: 4171, Betrayers: 829, Movers: 645, Still: 4355
+Iteration 389 -> Cooperators: 4182, Betrayers: 818, Movers: 709, Still: 4291
+Iteration 390 -> Cooperators: 4142, Betrayers: 858, Movers: 622, Still: 4378
+Iteration 391 -> Cooperators: 4156, Betrayers: 844, Movers: 623, Still: 4377
+Iteration 392 -> Cooperators: 4182, Betrayers: 818, Movers: 650, Still: 4350
+Iteration 393 -> Cooperators: 4181, Betrayers: 819, Movers: 628, Still: 4372
+Iteration 394 -> Cooperators: 4172, Betrayers: 828, Movers: 610, Still: 4390
+Iteration 395 -> Cooperators: 4142, Betrayers: 858, Movers: 624, Still: 4376
+Iteration 396 -> Cooperators: 4157, Betrayers: 843, Movers: 588, Still: 4412
+Iteration 397 -> Cooperators: 4146, Betrayers: 854, Movers: 669, Still: 4331
+Iteration 398 -> Cooperators: 4160, Betrayers: 840, Movers: 617, Still: 4383
+Iteration 399 -> Cooperators: 4132, Betrayers: 868, Movers: 604, Still: 4396
+Iteration 400 -> Cooperators: 4159, Betrayers: 841, Movers: 592, Still: 4408
+Iteration 401 -> Cooperators: 4169, Betrayers: 831, Movers: 592, Still: 4408
+Iteration 402 -> Cooperators: 4189, Betrayers: 811, Movers: 600, Still: 4400
+Iteration 403 -> Cooperators: 4149, Betrayers: 851, Movers: 635, Still: 4365
+Iteration 404 -> Cooperators: 4192, Betrayers: 808, Movers: 614, Still: 4386
+Iteration 405 -> Cooperators: 4165, Betrayers: 835, Movers: 585, Still: 4415
+Iteration 406 -> Cooperators: 4183, Betrayers: 817, Movers: 618, Still: 4382
+Iteration 407 -> Cooperators: 4183, Betrayers: 817, Movers: 584, Still: 4416
+Iteration 408 -> Cooperators: 4167, Betrayers: 833, Movers: 630, Still: 4370
+Iteration 409 -> Cooperators: 4152, Betrayers: 848, Movers: 609, Still: 4391
+Iteration 410 -> Cooperators: 4184, Betrayers: 816, Movers: 584, Still: 4416
+Iteration 411 -> Cooperators: 4216, Betrayers: 784, Movers: 590, Still: 4410
+Iteration 412 -> Cooperators: 4214, Betrayers: 786, Movers: 623, Still: 4377
+Iteration 413 -> Cooperators: 4186, Betrayers: 814, Movers: 603, Still: 4397
+Iteration 414 -> Cooperators: 4208, Betrayers: 792, Movers: 596, Still: 4404
+Iteration 415 -> Cooperators: 4215, Betrayers: 785, Movers: 599, Still: 4401
+Iteration 416 -> Cooperators: 4200, Betrayers: 800, Movers: 547, Still: 4453
+Iteration 417 -> Cooperators: 4174, Betrayers: 826, Movers: 613, Still: 4387
+Iteration 418 -> Cooperators: 4199, Betrayers: 801, Movers: 567, Still: 4433
+Iteration 419 -> Cooperators: 4204, Betrayers: 796, Movers: 557, Still: 4443
+Iteration 420 -> Cooperators: 4174, Betrayers: 826, Movers: 550, Still: 4450
+Iteration 421 -> Cooperators: 4177, Betrayers: 823, Movers: 561, Still: 4439
+Iteration 422 -> Cooperators: 4194, Betrayers: 806, Movers: 562, Still: 4438
+Iteration 423 -> Cooperators: 4208, Betrayers: 792, Movers: 573, Still: 4427
+Iteration 424 -> Cooperators: 4193, Betrayers: 807, Movers: 583, Still: 4417
+Iteration 425 -> Cooperators: 4211, Betrayers: 789, Movers: 569, Still: 4431
+Iteration 426 -> Cooperators: 4188, Betrayers: 812, Movers: 566, Still: 4434
+Iteration 427 -> Cooperators: 4222, Betrayers: 778, Movers: 572, Still: 4428
+Iteration 428 -> Cooperators: 4213, Betrayers: 787, Movers: 556, Still: 4444
+Iteration 429 -> Cooperators: 4199, Betrayers: 801, Movers: 564, Still: 4436
+Iteration 430 -> Cooperators: 4201, Betrayers: 799, Movers: 569, Still: 4431
+Iteration 431 -> Cooperators: 4229, Betrayers: 771, Movers: 515, Still: 4485
+Iteration 432 -> Cooperators: 4200, Betrayers: 800, Movers: 540, Still: 4460
+Iteration 433 -> Cooperators: 4221, Betrayers: 779, Movers: 543, Still: 4457
+Iteration 434 -> Cooperators: 4218, Betrayers: 782, Movers: 531, Still: 4469
+Iteration 435 -> Cooperators: 4202, Betrayers: 798, Movers: 544, Still: 4456
+Iteration 436 -> Cooperators: 4210, Betrayers: 790, Movers: 533, Still: 4467
+Iteration 437 -> Cooperators: 4220, Betrayers: 780, Movers: 551, Still: 4449
+Iteration 438 -> Cooperators: 4241, Betrayers: 759, Movers: 537, Still: 4463
+Iteration 439 -> Cooperators: 4216, Betrayers: 784, Movers: 526, Still: 4474
+Iteration 440 -> Cooperators: 4242, Betrayers: 758, Movers: 522, Still: 4478
+Iteration 441 -> Cooperators: 4219, Betrayers: 781, Movers: 514, Still: 4486
+Iteration 442 -> Cooperators: 4241, Betrayers: 759, Movers: 552, Still: 4448
+Iteration 443 -> Cooperators: 4224, Betrayers: 776, Movers: 522, Still: 4478
+Iteration 444 -> Cooperators: 4231, Betrayers: 769, Movers: 535, Still: 4465
+Iteration 445 -> Cooperators: 4198, Betrayers: 802, Movers: 525, Still: 4475
+Iteration 446 -> Cooperators: 4219, Betrayers: 781, Movers: 516, Still: 4484
+Iteration 447 -> Cooperators: 4253, Betrayers: 747, Movers: 552, Still: 4448
+Iteration 448 -> Cooperators: 4242, Betrayers: 758, Movers: 553, Still: 4447
+Iteration 449 -> Cooperators: 4213, Betrayers: 787, Movers: 512, Still: 4488
+Iteration 450 -> Cooperators: 4239, Betrayers: 761, Movers: 505, Still: 4495
+Iteration 451 -> Cooperators: 4231, Betrayers: 769, Movers: 493, Still: 4507
+Iteration 452 -> Cooperators: 4238, Betrayers: 762, Movers: 520, Still: 4480
+Iteration 453 -> Cooperators: 4218, Betrayers: 782, Movers: 535, Still: 4465
+Iteration 454 -> Cooperators: 4248, Betrayers: 752, Movers: 511, Still: 4489
+Iteration 455 -> Cooperators: 4251, Betrayers: 749, Movers: 517, Still: 4483
+Iteration 456 -> Cooperators: 4255, Betrayers: 745, Movers: 511, Still: 4489
+Iteration 457 -> Cooperators: 4245, Betrayers: 755, Movers: 516, Still: 4484
+Iteration 458 -> Cooperators: 4270, Betrayers: 730, Movers: 480, Still: 4520
+Iteration 459 -> Cooperators: 4230, Betrayers: 770, Movers: 536, Still: 4464
+Iteration 460 -> Cooperators: 4226, Betrayers: 774, Movers: 484, Still: 4516
+Iteration 461 -> Cooperators: 4277, Betrayers: 723, Movers: 511, Still: 4489
+Iteration 462 -> Cooperators: 4242, Betrayers: 758, Movers: 510, Still: 4490
+Iteration 463 -> Cooperators: 4230, Betrayers: 770, Movers: 505, Still: 4495
+Iteration 464 -> Cooperators: 4272, Betrayers: 728, Movers: 519, Still: 4481
+Iteration 465 -> Cooperators: 4225, Betrayers: 775, Movers: 509, Still: 4491
+Iteration 466 -> Cooperators: 4240, Betrayers: 760, Movers: 479, Still: 4521
+Iteration 467 -> Cooperators: 4232, Betrayers: 768, Movers: 491, Still: 4509
+Iteration 468 -> Cooperators: 4230, Betrayers: 770, Movers: 486, Still: 4514
+Iteration 469 -> Cooperators: 4253, Betrayers: 747, Movers: 476, Still: 4524
+Iteration 470 -> Cooperators: 4251, Betrayers: 749, Movers: 508, Still: 4492
+Iteration 471 -> Cooperators: 4226, Betrayers: 774, Movers: 501, Still: 4499
+Iteration 472 -> Cooperators: 4271, Betrayers: 729, Movers: 485, Still: 4515
+Iteration 473 -> Cooperators: 4230, Betrayers: 770, Movers: 474, Still: 4526
+Iteration 474 -> Cooperators: 4232, Betrayers: 768, Movers: 461, Still: 4539
+Iteration 475 -> Cooperators: 4273, Betrayers: 727, Movers: 446, Still: 4554
+Iteration 476 -> Cooperators: 4271, Betrayers: 729, Movers: 494, Still: 4506
+Iteration 477 -> Cooperators: 4259, Betrayers: 741, Movers: 470, Still: 4530
+Iteration 478 -> Cooperators: 4257, Betrayers: 743, Movers: 461, Still: 4539
+Iteration 479 -> Cooperators: 4250, Betrayers: 750, Movers: 478, Still: 4522
+Iteration 480 -> Cooperators: 4231, Betrayers: 769, Movers: 463, Still: 4537
+Iteration 481 -> Cooperators: 4250, Betrayers: 750, Movers: 462, Still: 4538
+Iteration 482 -> Cooperators: 4275, Betrayers: 725, Movers: 465, Still: 4535
+Iteration 483 -> Cooperators: 4259, Betrayers: 741, Movers: 461, Still: 4539
+Iteration 484 -> Cooperators: 4246, Betrayers: 754, Movers: 476, Still: 4524
+Iteration 485 -> Cooperators: 4246, Betrayers: 754, Movers: 460, Still: 4540
+Iteration 486 -> Cooperators: 4251, Betrayers: 749, Movers: 453, Still: 4547
+Iteration 487 -> Cooperators: 4269, Betrayers: 731, Movers: 461, Still: 4539
+Iteration 488 -> Cooperators: 4264, Betrayers: 736, Movers: 451, Still: 4549
+Iteration 489 -> Cooperators: 4262, Betrayers: 738, Movers: 453, Still: 4547
+Iteration 490 -> Cooperators: 4248, Betrayers: 752, Movers: 445, Still: 4555
+Iteration 491 -> Cooperators: 4235, Betrayers: 765, Movers: 447, Still: 4553
+Iteration 492 -> Cooperators: 4289, Betrayers: 711, Movers: 447, Still: 4553
+Iteration 493 -> Cooperators: 4310, Betrayers: 690, Movers: 459, Still: 4541
+Iteration 494 -> Cooperators: 4262, Betrayers: 738, Movers: 450, Still: 4550
+Iteration 495 -> Cooperators: 4292, Betrayers: 708, Movers: 457, Still: 4543
+Iteration 496 -> Cooperators: 4273, Betrayers: 727, Movers: 429, Still: 4571
+Iteration 497 -> Cooperators: 4267, Betrayers: 733, Movers: 448, Still: 4552
+Iteration 498 -> Cooperators: 4300, Betrayers: 700, Movers: 461, Still: 4539
+Iteration 499 -> Cooperators: 4287, Betrayers: 713, Movers: 451, Still: 4549
+Iteration 500 -> Cooperators: 4303, Betrayers: 697, Movers: 430, Still: 4570
+Iteration 501 -> Cooperators: 4263, Betrayers: 737, Movers: 448, Still: 4552
+Iteration 502 -> Cooperators: 4265, Betrayers: 735, Movers: 445, Still: 4555
+Iteration 503 -> Cooperators: 4288, Betrayers: 712, Movers: 410, Still: 4590
+Iteration 504 -> Cooperators: 4267, Betrayers: 733, Movers: 425, Still: 4575
+Iteration 505 -> Cooperators: 4281, Betrayers: 719, Movers: 431, Still: 4569
+Iteration 506 -> Cooperators: 4276, Betrayers: 724, Movers: 416, Still: 4584
+Iteration 507 -> Cooperators: 4264, Betrayers: 736, Movers: 416, Still: 4584
+Iteration 508 -> Cooperators: 4291, Betrayers: 709, Movers: 426, Still: 4574
+Iteration 509 -> Cooperators: 4283, Betrayers: 717, Movers: 409, Still: 4591
+Iteration 510 -> Cooperators: 4286, Betrayers: 714, Movers: 419, Still: 4581
+Iteration 511 -> Cooperators: 4287, Betrayers: 713, Movers: 434, Still: 4566
+Iteration 512 -> Cooperators: 4282, Betrayers: 718, Movers: 441, Still: 4559
+Iteration 513 -> Cooperators: 4281, Betrayers: 719, Movers: 426, Still: 4574
+Iteration 514 -> Cooperators: 4277, Betrayers: 723, Movers: 428, Still: 4572
+Iteration 515 -> Cooperators: 4299, Betrayers: 701, Movers: 441, Still: 4559
+Iteration 516 -> Cooperators: 4297, Betrayers: 703, Movers: 434, Still: 4566
+Iteration 517 -> Cooperators: 4275, Betrayers: 725, Movers: 402, Still: 4598
+Iteration 518 -> Cooperators: 4278, Betrayers: 722, Movers: 404, Still: 4596
+Iteration 519 -> Cooperators: 4294, Betrayers: 706, Movers: 423, Still: 4577
+Iteration 520 -> Cooperators: 4293, Betrayers: 707, Movers: 405, Still: 4595
+Iteration 521 -> Cooperators: 4284, Betrayers: 716, Movers: 404, Still: 4596
+Iteration 522 -> Cooperators: 4260, Betrayers: 740, Movers: 437, Still: 4563
+Iteration 523 -> Cooperators: 4287, Betrayers: 713, Movers: 410, Still: 4590
+Iteration 524 -> Cooperators: 4303, Betrayers: 697, Movers: 418, Still: 4582
+Iteration 525 -> Cooperators: 4283, Betrayers: 717, Movers: 414, Still: 4586
+Iteration 526 -> Cooperators: 4278, Betrayers: 722, Movers: 386, Still: 4614
+Iteration 527 -> Cooperators: 4307, Betrayers: 693, Movers: 391, Still: 4609
+Iteration 528 -> Cooperators: 4305, Betrayers: 695, Movers: 399, Still: 4601
+Iteration 529 -> Cooperators: 4307, Betrayers: 693, Movers: 409, Still: 4591
+Iteration 530 -> Cooperators: 4307, Betrayers: 693, Movers: 411, Still: 4589
+Iteration 531 -> Cooperators: 4294, Betrayers: 706, Movers: 417, Still: 4583
+Iteration 532 -> Cooperators: 4291, Betrayers: 709, Movers: 421, Still: 4579
+Iteration 533 -> Cooperators: 4294, Betrayers: 706, Movers: 417, Still: 4583
+Iteration 534 -> Cooperators: 4292, Betrayers: 708, Movers: 377, Still: 4623
+Iteration 535 -> Cooperators: 4312, Betrayers: 688, Movers: 372, Still: 4628
+Iteration 536 -> Cooperators: 4291, Betrayers: 709, Movers: 395, Still: 4605
+Iteration 537 -> Cooperators: 4295, Betrayers: 705, Movers: 394, Still: 4606
+Iteration 538 -> Cooperators: 4296, Betrayers: 704, Movers: 398, Still: 4602
+Iteration 539 -> Cooperators: 4296, Betrayers: 704, Movers: 405, Still: 4595
+Iteration 540 -> Cooperators: 4306, Betrayers: 694, Movers: 386, Still: 4614
+Iteration 541 -> Cooperators: 4330, Betrayers: 670, Movers: 375, Still: 4625
+Iteration 542 -> Cooperators: 4283, Betrayers: 717, Movers: 383, Still: 4617
+Iteration 543 -> Cooperators: 4289, Betrayers: 711, Movers: 388, Still: 4612
+Iteration 544 -> Cooperators: 4298, Betrayers: 702, Movers: 367, Still: 4633
+Iteration 545 -> Cooperators: 4292, Betrayers: 708, Movers: 378, Still: 4622
+Iteration 546 -> Cooperators: 4304, Betrayers: 696, Movers: 416, Still: 4584
+Iteration 547 -> Cooperators: 4308, Betrayers: 692, Movers: 373, Still: 4627
+Iteration 548 -> Cooperators: 4314, Betrayers: 686, Movers: 382, Still: 4618
+Iteration 549 -> Cooperators: 4305, Betrayers: 695, Movers: 366, Still: 4634
+Iteration 550 -> Cooperators: 4276, Betrayers: 724, Movers: 357, Still: 4643
+Iteration 551 -> Cooperators: 4306, Betrayers: 694, Movers: 383, Still: 4617
+Iteration 552 -> Cooperators: 4292, Betrayers: 708, Movers: 379, Still: 4621
+Iteration 553 -> Cooperators: 4328, Betrayers: 672, Movers: 399, Still: 4601
+Iteration 554 -> Cooperators: 4278, Betrayers: 722, Movers: 368, Still: 4632
+Iteration 555 -> Cooperators: 4322, Betrayers: 678, Movers: 368, Still: 4632
+Iteration 556 -> Cooperators: 4293, Betrayers: 707, Movers: 370, Still: 4630
+Iteration 557 -> Cooperators: 4305, Betrayers: 695, Movers: 390, Still: 4610
+Iteration 558 -> Cooperators: 4332, Betrayers: 668, Movers: 398, Still: 4602
+Iteration 559 -> Cooperators: 4297, Betrayers: 703, Movers: 350, Still: 4650
+Iteration 560 -> Cooperators: 4307, Betrayers: 693, Movers: 376, Still: 4624
+Iteration 561 -> Cooperators: 4305, Betrayers: 695, Movers: 362, Still: 4638
+Iteration 562 -> Cooperators: 4293, Betrayers: 707, Movers: 356, Still: 4644
+Iteration 563 -> Cooperators: 4319, Betrayers: 681, Movers: 361, Still: 4639
+Iteration 564 -> Cooperators: 4338, Betrayers: 662, Movers: 362, Still: 4638
+Iteration 565 -> Cooperators: 4294, Betrayers: 706, Movers: 359, Still: 4641
+Iteration 566 -> Cooperators: 4322, Betrayers: 678, Movers: 355, Still: 4645
+Iteration 567 -> Cooperators: 4304, Betrayers: 696, Movers: 366, Still: 4634
+Iteration 568 -> Cooperators: 4310, Betrayers: 690, Movers: 349, Still: 4651
+Iteration 569 -> Cooperators: 4311, Betrayers: 689, Movers: 376, Still: 4624
+Iteration 570 -> Cooperators: 4310, Betrayers: 690, Movers: 356, Still: 4644
+Iteration 571 -> Cooperators: 4298, Betrayers: 702, Movers: 354, Still: 4646
+Iteration 572 -> Cooperators: 4307, Betrayers: 693, Movers: 357, Still: 4643
+Iteration 573 -> Cooperators: 4303, Betrayers: 697, Movers: 343, Still: 4657
+Iteration 574 -> Cooperators: 4309, Betrayers: 691, Movers: 342, Still: 4658
+Iteration 575 -> Cooperators: 4331, Betrayers: 669, Movers: 369, Still: 4631
+Iteration 576 -> Cooperators: 4318, Betrayers: 682, Movers: 349, Still: 4651
+Iteration 577 -> Cooperators: 4306, Betrayers: 694, Movers: 319, Still: 4681
+Iteration 578 -> Cooperators: 4301, Betrayers: 699, Movers: 353, Still: 4647
+Iteration 579 -> Cooperators: 4306, Betrayers: 694, Movers: 348, Still: 4652
+Iteration 580 -> Cooperators: 4310, Betrayers: 690, Movers: 361, Still: 4639
+Iteration 581 -> Cooperators: 4337, Betrayers: 663, Movers: 325, Still: 4675
+Iteration 582 -> Cooperators: 4330, Betrayers: 670, Movers: 353, Still: 4647
+Iteration 583 -> Cooperators: 4320, Betrayers: 680, Movers: 353, Still: 4647
+Iteration 584 -> Cooperators: 4335, Betrayers: 665, Movers: 349, Still: 4651
+Iteration 585 -> Cooperators: 4310, Betrayers: 690, Movers: 362, Still: 4638
+Iteration 586 -> Cooperators: 4297, Betrayers: 703, Movers: 346, Still: 4654
+Iteration 587 -> Cooperators: 4316, Betrayers: 684, Movers: 358, Still: 4642
+Iteration 588 -> Cooperators: 4316, Betrayers: 684, Movers: 344, Still: 4656
+Iteration 589 -> Cooperators: 4304, Betrayers: 696, Movers: 367, Still: 4633
+Iteration 590 -> Cooperators: 4325, Betrayers: 675, Movers: 357, Still: 4643
+Iteration 591 -> Cooperators: 4312, Betrayers: 688, Movers: 303, Still: 4697
+Iteration 592 -> Cooperators: 4331, Betrayers: 669, Movers: 316, Still: 4684
+Iteration 593 -> Cooperators: 4325, Betrayers: 675, Movers: 350, Still: 4650
+Iteration 594 -> Cooperators: 4309, Betrayers: 691, Movers: 333, Still: 4667
+Iteration 595 -> Cooperators: 4304, Betrayers: 696, Movers: 342, Still: 4658
+Iteration 596 -> Cooperators: 4331, Betrayers: 669, Movers: 315, Still: 4685
+Iteration 597 -> Cooperators: 4354, Betrayers: 646, Movers: 355, Still: 4645
+Iteration 598 -> Cooperators: 4326, Betrayers: 674, Movers: 331, Still: 4669
+Iteration 599 -> Cooperators: 4322, Betrayers: 678, Movers: 338, Still: 4662
+Iteration 600 -> Cooperators: 4316, Betrayers: 684, Movers: 322, Still: 4678
+Iteration 601 -> Cooperators: 4323, Betrayers: 677, Movers: 330, Still: 4670
+Iteration 602 -> Cooperators: 4312, Betrayers: 688, Movers: 314, Still: 4686
+Iteration 603 -> Cooperators: 4337, Betrayers: 663, Movers: 321, Still: 4679
+Iteration 604 -> Cooperators: 4348, Betrayers: 652, Movers: 314, Still: 4686
+Iteration 605 -> Cooperators: 4326, Betrayers: 674, Movers: 316, Still: 4684
+Iteration 606 -> Cooperators: 4343, Betrayers: 657, Movers: 310, Still: 4690
+Iteration 607 -> Cooperators: 4339, Betrayers: 661, Movers: 304, Still: 4696
+Iteration 608 -> Cooperators: 4336, Betrayers: 664, Movers: 336, Still: 4664
+Iteration 609 -> Cooperators: 4316, Betrayers: 684, Movers: 317, Still: 4683
+Iteration 610 -> Cooperators: 4348, Betrayers: 652, Movers: 312, Still: 4688
+Iteration 611 -> Cooperators: 4296, Betrayers: 704, Movers: 317, Still: 4683
+Iteration 612 -> Cooperators: 4355, Betrayers: 645, Movers: 304, Still: 4696
+Iteration 613 -> Cooperators: 4326, Betrayers: 674, Movers: 295, Still: 4705
+Iteration 614 -> Cooperators: 4333, Betrayers: 667, Movers: 308, Still: 4692
+Iteration 615 -> Cooperators: 4348, Betrayers: 652, Movers: 311, Still: 4689
+Iteration 616 -> Cooperators: 4345, Betrayers: 655, Movers: 330, Still: 4670
+Iteration 617 -> Cooperators: 4340, Betrayers: 660, Movers: 305, Still: 4695
+Iteration 618 -> Cooperators: 4325, Betrayers: 675, Movers: 327, Still: 4673
+Iteration 619 -> Cooperators: 4337, Betrayers: 663, Movers: 311, Still: 4689
+Iteration 620 -> Cooperators: 4337, Betrayers: 663, Movers: 298, Still: 4702
+Iteration 621 -> Cooperators: 4338, Betrayers: 662, Movers: 314, Still: 4686
+Iteration 622 -> Cooperators: 4313, Betrayers: 687, Movers: 280, Still: 4720
+Iteration 623 -> Cooperators: 4341, Betrayers: 659, Movers: 304, Still: 4696
+Iteration 624 -> Cooperators: 4341, Betrayers: 659, Movers: 296, Still: 4704
+Iteration 625 -> Cooperators: 4342, Betrayers: 658, Movers: 294, Still: 4706
+Iteration 626 -> Cooperators: 4345, Betrayers: 655, Movers: 290, Still: 4710
+Iteration 627 -> Cooperators: 4338, Betrayers: 662, Movers: 326, Still: 4674
+Iteration 628 -> Cooperators: 4335, Betrayers: 665, Movers: 297, Still: 4703
+Iteration 629 -> Cooperators: 4323, Betrayers: 677, Movers: 301, Still: 4699
+Iteration 630 -> Cooperators: 4345, Betrayers: 655, Movers: 335, Still: 4665
+Iteration 631 -> Cooperators: 4357, Betrayers: 643, Movers: 304, Still: 4696
+Iteration 632 -> Cooperators: 4355, Betrayers: 645, Movers: 303, Still: 4697
+Iteration 633 -> Cooperators: 4306, Betrayers: 694, Movers: 299, Still: 4701
+Iteration 634 -> Cooperators: 4331, Betrayers: 669, Movers: 273, Still: 4727
+Iteration 635 -> Cooperators: 4326, Betrayers: 674, Movers: 299, Still: 4701
+Iteration 636 -> Cooperators: 4343, Betrayers: 657, Movers: 298, Still: 4702
+Iteration 637 -> Cooperators: 4357, Betrayers: 643, Movers: 305, Still: 4695
+Iteration 638 -> Cooperators: 4330, Betrayers: 670, Movers: 287, Still: 4713
+Iteration 639 -> Cooperators: 4349, Betrayers: 651, Movers: 299, Still: 4701
+Iteration 640 -> Cooperators: 4332, Betrayers: 668, Movers: 274, Still: 4726
+Iteration 641 -> Cooperators: 4328, Betrayers: 672, Movers: 295, Still: 4705
+Iteration 642 -> Cooperators: 4334, Betrayers: 666, Movers: 282, Still: 4718
+Iteration 643 -> Cooperators: 4331, Betrayers: 669, Movers: 270, Still: 4730
+Iteration 644 -> Cooperators: 4353, Betrayers: 647, Movers: 290, Still: 4710
+Iteration 645 -> Cooperators: 4353, Betrayers: 647, Movers: 292, Still: 4708
+Iteration 646 -> Cooperators: 4347, Betrayers: 653, Movers: 306, Still: 4694
+Iteration 647 -> Cooperators: 4337, Betrayers: 663, Movers: 283, Still: 4717
+Iteration 648 -> Cooperators: 4323, Betrayers: 677, Movers: 288, Still: 4712
+Iteration 649 -> Cooperators: 4328, Betrayers: 672, Movers: 289, Still: 4711
+Iteration 650 -> Cooperators: 4362, Betrayers: 638, Movers: 294, Still: 4706
+Iteration 651 -> Cooperators: 4323, Betrayers: 677, Movers: 277, Still: 4723
+Iteration 652 -> Cooperators: 4339, Betrayers: 661, Movers: 302, Still: 4698
+Iteration 653 -> Cooperators: 4348, Betrayers: 652, Movers: 274, Still: 4726
+Iteration 654 -> Cooperators: 4342, Betrayers: 658, Movers: 272, Still: 4728
+Iteration 655 -> Cooperators: 4341, Betrayers: 659, Movers: 277, Still: 4723
+Iteration 656 -> Cooperators: 4358, Betrayers: 642, Movers: 282, Still: 4718
+Iteration 657 -> Cooperators: 4368, Betrayers: 632, Movers: 294, Still: 4706
+Iteration 658 -> Cooperators: 4332, Betrayers: 668, Movers: 278, Still: 4722
+Iteration 659 -> Cooperators: 4344, Betrayers: 656, Movers: 305, Still: 4695
+Iteration 660 -> Cooperators: 4345, Betrayers: 655, Movers: 266, Still: 4734
+Iteration 661 -> Cooperators: 4361, Betrayers: 639, Movers: 274, Still: 4726
+Iteration 662 -> Cooperators: 4341, Betrayers: 659, Movers: 257, Still: 4743
+Iteration 663 -> Cooperators: 4347, Betrayers: 653, Movers: 278, Still: 4722
+Iteration 664 -> Cooperators: 4318, Betrayers: 682, Movers: 293, Still: 4707
+Iteration 665 -> Cooperators: 4330, Betrayers: 670, Movers: 262, Still: 4738
+Iteration 666 -> Cooperators: 4366, Betrayers: 634, Movers: 294, Still: 4706
+Iteration 667 -> Cooperators: 4347, Betrayers: 653, Movers: 272, Still: 4728
+Iteration 668 -> Cooperators: 4345, Betrayers: 655, Movers: 288, Still: 4712
+Iteration 669 -> Cooperators: 4370, Betrayers: 630, Movers: 270, Still: 4730
+Iteration 670 -> Cooperators: 4383, Betrayers: 617, Movers: 266, Still: 4734
+Iteration 671 -> Cooperators: 4355, Betrayers: 645, Movers: 289, Still: 4711
+Iteration 672 -> Cooperators: 4347, Betrayers: 653, Movers: 256, Still: 4744
+Iteration 673 -> Cooperators: 4355, Betrayers: 645, Movers: 259, Still: 4741
+Iteration 674 -> Cooperators: 4353, Betrayers: 647, Movers: 275, Still: 4725
+Iteration 675 -> Cooperators: 4379, Betrayers: 621, Movers: 276, Still: 4724
+Iteration 676 -> Cooperators: 4360, Betrayers: 640, Movers: 258, Still: 4742
+Iteration 677 -> Cooperators: 4352, Betrayers: 648, Movers: 261, Still: 4739
+Iteration 678 -> Cooperators: 4350, Betrayers: 650, Movers: 269, Still: 4731
+Iteration 679 -> Cooperators: 4359, Betrayers: 641, Movers: 252, Still: 4748
+Iteration 680 -> Cooperators: 4365, Betrayers: 635, Movers: 281, Still: 4719
+Iteration 681 -> Cooperators: 4359, Betrayers: 641, Movers: 284, Still: 4716
+Iteration 682 -> Cooperators: 4357, Betrayers: 643, Movers: 245, Still: 4755
+Iteration 683 -> Cooperators: 4346, Betrayers: 654, Movers: 257, Still: 4743
+Iteration 684 -> Cooperators: 4370, Betrayers: 630, Movers: 262, Still: 4738
+Iteration 685 -> Cooperators: 4365, Betrayers: 635, Movers: 281, Still: 4719
+Iteration 686 -> Cooperators: 4342, Betrayers: 658, Movers: 265, Still: 4735
+Iteration 687 -> Cooperators: 4377, Betrayers: 623, Movers: 256, Still: 4744
+Iteration 688 -> Cooperators: 4362, Betrayers: 638, Movers: 254, Still: 4746
+Iteration 689 -> Cooperators: 4371, Betrayers: 629, Movers: 258, Still: 4742
+Iteration 690 -> Cooperators: 4380, Betrayers: 620, Movers: 274, Still: 4726
+Iteration 691 -> Cooperators: 4359, Betrayers: 641, Movers: 267, Still: 4733
+Iteration 692 -> Cooperators: 4374, Betrayers: 626, Movers: 263, Still: 4737
+Iteration 693 -> Cooperators: 4386, Betrayers: 614, Movers: 260, Still: 4740
+Iteration 694 -> Cooperators: 4368, Betrayers: 632, Movers: 259, Still: 4741
+Iteration 695 -> Cooperators: 4363, Betrayers: 637, Movers: 260, Still: 4740
+Iteration 696 -> Cooperators: 4381, Betrayers: 619, Movers: 260, Still: 4740
+Iteration 697 -> Cooperators: 4369, Betrayers: 631, Movers: 264, Still: 4736
+Iteration 698 -> Cooperators: 4354, Betrayers: 646, Movers: 257, Still: 4743
+Iteration 699 -> Cooperators: 4367, Betrayers: 633, Movers: 257, Still: 4743
+Iteration 700 -> Cooperators: 4347, Betrayers: 653, Movers: 248, Still: 4752
+Iteration 701 -> Cooperators: 4359, Betrayers: 641, Movers: 248, Still: 4752
+Iteration 702 -> Cooperators: 4365, Betrayers: 635, Movers: 250, Still: 4750
+Iteration 703 -> Cooperators: 4371, Betrayers: 629, Movers: 245, Still: 4755
+Iteration 704 -> Cooperators: 4359, Betrayers: 641, Movers: 240, Still: 4760
+Iteration 705 -> Cooperators: 4369, Betrayers: 631, Movers: 269, Still: 4731
+Iteration 706 -> Cooperators: 4354, Betrayers: 646, Movers: 256, Still: 4744
+Iteration 707 -> Cooperators: 4365, Betrayers: 635, Movers: 262, Still: 4738
+Iteration 708 -> Cooperators: 4357, Betrayers: 643, Movers: 261, Still: 4739
+Iteration 709 -> Cooperators: 4374, Betrayers: 626, Movers: 254, Still: 4746
+Iteration 710 -> Cooperators: 4369, Betrayers: 631, Movers: 220, Still: 4780
+Iteration 711 -> Cooperators: 4359, Betrayers: 641, Movers: 235, Still: 4765
+Iteration 712 -> Cooperators: 4385, Betrayers: 615, Movers: 263, Still: 4737
+Iteration 713 -> Cooperators: 4381, Betrayers: 619, Movers: 222, Still: 4778
+Iteration 714 -> Cooperators: 4381, Betrayers: 619, Movers: 240, Still: 4760
+Iteration 715 -> Cooperators: 4367, Betrayers: 633, Movers: 245, Still: 4755
+Iteration 716 -> Cooperators: 4372, Betrayers: 628, Movers: 235, Still: 4765
+Iteration 717 -> Cooperators: 4389, Betrayers: 611, Movers: 248, Still: 4752
+Iteration 718 -> Cooperators: 4364, Betrayers: 636, Movers: 238, Still: 4762
+Iteration 719 -> Cooperators: 4366, Betrayers: 634, Movers: 228, Still: 4772
+Iteration 720 -> Cooperators: 4358, Betrayers: 642, Movers: 227, Still: 4773
+Iteration 721 -> Cooperators: 4382, Betrayers: 618, Movers: 266, Still: 4734
+Iteration 722 -> Cooperators: 4381, Betrayers: 619, Movers: 235, Still: 4765
+Iteration 723 -> Cooperators: 4381, Betrayers: 619, Movers: 249, Still: 4751
+Iteration 724 -> Cooperators: 4377, Betrayers: 623, Movers: 239, Still: 4761
+Iteration 725 -> Cooperators: 4369, Betrayers: 631, Movers: 223, Still: 4777
+Iteration 726 -> Cooperators: 4381, Betrayers: 619, Movers: 247, Still: 4753
+Iteration 727 -> Cooperators: 4384, Betrayers: 616, Movers: 229, Still: 4771
+Iteration 728 -> Cooperators: 4366, Betrayers: 634, Movers: 239, Still: 4761
+Iteration 729 -> Cooperators: 4397, Betrayers: 603, Movers: 247, Still: 4753
+Iteration 730 -> Cooperators: 4380, Betrayers: 620, Movers: 232, Still: 4768
+Iteration 731 -> Cooperators: 4373, Betrayers: 627, Movers: 220, Still: 4780
+Iteration 732 -> Cooperators: 4381, Betrayers: 619, Movers: 245, Still: 4755
+Iteration 733 -> Cooperators: 4369, Betrayers: 631, Movers: 243, Still: 4757
+Iteration 734 -> Cooperators: 4384, Betrayers: 616, Movers: 220, Still: 4780
+Iteration 735 -> Cooperators: 4383, Betrayers: 617, Movers: 245, Still: 4755
+Iteration 736 -> Cooperators: 4397, Betrayers: 603, Movers: 222, Still: 4778
+Iteration 737 -> Cooperators: 4381, Betrayers: 619, Movers: 229, Still: 4771
+Iteration 738 -> Cooperators: 4392, Betrayers: 608, Movers: 225, Still: 4775
+Iteration 739 -> Cooperators: 4378, Betrayers: 622, Movers: 239, Still: 4761
+Iteration 740 -> Cooperators: 4373, Betrayers: 627, Movers: 221, Still: 4779
+Iteration 741 -> Cooperators: 4371, Betrayers: 629, Movers: 236, Still: 4764
+Iteration 742 -> Cooperators: 4361, Betrayers: 639, Movers: 222, Still: 4778
+Iteration 743 -> Cooperators: 4368, Betrayers: 632, Movers: 242, Still: 4758
+Iteration 744 -> Cooperators: 4383, Betrayers: 617, Movers: 226, Still: 4774
+Iteration 745 -> Cooperators: 4375, Betrayers: 625, Movers: 218, Still: 4782
+Iteration 746 -> Cooperators: 4407, Betrayers: 593, Movers: 221, Still: 4779
+Iteration 747 -> Cooperators: 4392, Betrayers: 608, Movers: 224, Still: 4776
+Iteration 748 -> Cooperators: 4379, Betrayers: 621, Movers: 220, Still: 4780
+Iteration 749 -> Cooperators: 4390, Betrayers: 610, Movers: 221, Still: 4779
+Iteration 750 -> Cooperators: 4382, Betrayers: 618, Movers: 224, Still: 4776
+Iteration 751 -> Cooperators: 4380, Betrayers: 620, Movers: 236, Still: 4764
+Iteration 752 -> Cooperators: 4384, Betrayers: 616, Movers: 218, Still: 4782
+Iteration 753 -> Cooperators: 4388, Betrayers: 612, Movers: 218, Still: 4782
+Iteration 754 -> Cooperators: 4373, Betrayers: 627, Movers: 222, Still: 4778
+Iteration 755 -> Cooperators: 4372, Betrayers: 628, Movers: 227, Still: 4773
+Iteration 756 -> Cooperators: 4382, Betrayers: 618, Movers: 225, Still: 4775
+Iteration 757 -> Cooperators: 4385, Betrayers: 615, Movers: 220, Still: 4780
+Iteration 758 -> Cooperators: 4387, Betrayers: 613, Movers: 231, Still: 4769
+Iteration 759 -> Cooperators: 4400, Betrayers: 600, Movers: 219, Still: 4781
+Iteration 760 -> Cooperators: 4395, Betrayers: 605, Movers: 212, Still: 4788
+Iteration 761 -> Cooperators: 4391, Betrayers: 609, Movers: 211, Still: 4789
+Iteration 762 -> Cooperators: 4396, Betrayers: 604, Movers: 205, Still: 4795
+Iteration 763 -> Cooperators: 4380, Betrayers: 620, Movers: 218, Still: 4782
+Iteration 764 -> Cooperators: 4385, Betrayers: 615, Movers: 231, Still: 4769
+Iteration 765 -> Cooperators: 4402, Betrayers: 598, Movers: 226, Still: 4774
+Iteration 766 -> Cooperators: 4374, Betrayers: 626, Movers: 216, Still: 4784
+Iteration 767 -> Cooperators: 4398, Betrayers: 602, Movers: 207, Still: 4793
+Iteration 768 -> Cooperators: 4406, Betrayers: 594, Movers: 204, Still: 4796
+Iteration 769 -> Cooperators: 4383, Betrayers: 617, Movers: 205, Still: 4795
+Iteration 770 -> Cooperators: 4372, Betrayers: 628, Movers: 203, Still: 4797
+Iteration 771 -> Cooperators: 4390, Betrayers: 610, Movers: 198, Still: 4802
+Iteration 772 -> Cooperators: 4389, Betrayers: 611, Movers: 219, Still: 4781
+Iteration 773 -> Cooperators: 4387, Betrayers: 613, Movers: 202, Still: 4798
+Iteration 774 -> Cooperators: 4400, Betrayers: 600, Movers: 205, Still: 4795
+Iteration 775 -> Cooperators: 4376, Betrayers: 624, Movers: 237, Still: 4763
+Iteration 776 -> Cooperators: 4391, Betrayers: 609, Movers: 196, Still: 4804
+Iteration 777 -> Cooperators: 4410, Betrayers: 590, Movers: 212, Still: 4788
+Iteration 778 -> Cooperators: 4393, Betrayers: 607, Movers: 217, Still: 4783
+Iteration 779 -> Cooperators: 4401, Betrayers: 599, Movers: 216, Still: 4784
+Iteration 780 -> Cooperators: 4388, Betrayers: 612, Movers: 205, Still: 4795
+Iteration 781 -> Cooperators: 4375, Betrayers: 625, Movers: 207, Still: 4793
+Iteration 782 -> Cooperators: 4397, Betrayers: 603, Movers: 210, Still: 4790
+Iteration 783 -> Cooperators: 4378, Betrayers: 622, Movers: 194, Still: 4806
+Iteration 784 -> Cooperators: 4397, Betrayers: 603, Movers: 204, Still: 4796
+Iteration 785 -> Cooperators: 4403, Betrayers: 597, Movers: 195, Still: 4805
+Iteration 786 -> Cooperators: 4391, Betrayers: 609, Movers: 208, Still: 4792
+Iteration 787 -> Cooperators: 4393, Betrayers: 607, Movers: 215, Still: 4785
+Iteration 788 -> Cooperators: 4370, Betrayers: 630, Movers: 228, Still: 4772
+Iteration 789 -> Cooperators: 4399, Betrayers: 601, Movers: 192, Still: 4808
+Iteration 790 -> Cooperators: 4394, Betrayers: 606, Movers: 188, Still: 4812
+Iteration 791 -> Cooperators: 4375, Betrayers: 625, Movers: 202, Still: 4798
+Iteration 792 -> Cooperators: 4377, Betrayers: 623, Movers: 205, Still: 4795
+Iteration 793 -> Cooperators: 4397, Betrayers: 603, Movers: 195, Still: 4805
+Iteration 794 -> Cooperators: 4385, Betrayers: 615, Movers: 198, Still: 4802
+Iteration 795 -> Cooperators: 4395, Betrayers: 605, Movers: 201, Still: 4799
+Iteration 796 -> Cooperators: 4396, Betrayers: 604, Movers: 197, Still: 4803
+Iteration 797 -> Cooperators: 4401, Betrayers: 599, Movers: 207, Still: 4793
+Iteration 798 -> Cooperators: 4406, Betrayers: 594, Movers: 211, Still: 4789
+Iteration 799 -> Cooperators: 4395, Betrayers: 605, Movers: 203, Still: 4797
+Iteration 800 -> Cooperators: 4396, Betrayers: 604, Movers: 201, Still: 4799
+Iteration 801 -> Cooperators: 4405, Betrayers: 595, Movers: 189, Still: 4811
+Iteration 802 -> Cooperators: 4386, Betrayers: 614, Movers: 207, Still: 4793
+Iteration 803 -> Cooperators: 4388, Betrayers: 612, Movers: 215, Still: 4785
+Iteration 804 -> Cooperators: 4407, Betrayers: 593, Movers: 207, Still: 4793
+Iteration 805 -> Cooperators: 4384, Betrayers: 616, Movers: 198, Still: 4802
+Iteration 806 -> Cooperators: 4396, Betrayers: 604, Movers: 201, Still: 4799
+Iteration 807 -> Cooperators: 4402, Betrayers: 598, Movers: 194, Still: 4806
+Iteration 808 -> Cooperators: 4404, Betrayers: 596, Movers: 185, Still: 4815
+Iteration 809 -> Cooperators: 4403, Betrayers: 597, Movers: 184, Still: 4816
+Iteration 810 -> Cooperators: 4374, Betrayers: 626, Movers: 182, Still: 4818
+Iteration 811 -> Cooperators: 4399, Betrayers: 601, Movers: 200, Still: 4800
+Iteration 812 -> Cooperators: 4402, Betrayers: 598, Movers: 200, Still: 4800
+Iteration 813 -> Cooperators: 4404, Betrayers: 596, Movers: 183, Still: 4817
+Iteration 814 -> Cooperators: 4387, Betrayers: 613, Movers: 196, Still: 4804
+Iteration 815 -> Cooperators: 4398, Betrayers: 602, Movers: 205, Still: 4795
+Iteration 816 -> Cooperators: 4395, Betrayers: 605, Movers: 191, Still: 4809
+Iteration 817 -> Cooperators: 4397, Betrayers: 603, Movers: 191, Still: 4809
+Iteration 818 -> Cooperators: 4407, Betrayers: 593, Movers: 189, Still: 4811
+Iteration 819 -> Cooperators: 4393, Betrayers: 607, Movers: 188, Still: 4812
+Iteration 820 -> Cooperators: 4399, Betrayers: 601, Movers: 182, Still: 4818
+Iteration 821 -> Cooperators: 4404, Betrayers: 596, Movers: 188, Still: 4812
+Iteration 822 -> Cooperators: 4396, Betrayers: 604, Movers: 187, Still: 4813
+Iteration 823 -> Cooperators: 4401, Betrayers: 599, Movers: 184, Still: 4816
+Iteration 824 -> Cooperators: 4387, Betrayers: 613, Movers: 170, Still: 4830
+Iteration 825 -> Cooperators: 4410, Betrayers: 590, Movers: 197, Still: 4803
+Iteration 826 -> Cooperators: 4388, Betrayers: 612, Movers: 181, Still: 4819
+Iteration 827 -> Cooperators: 4409, Betrayers: 591, Movers: 206, Still: 4794
+Iteration 828 -> Cooperators: 4388, Betrayers: 612, Movers: 191, Still: 4809
+Iteration 829 -> Cooperators: 4393, Betrayers: 607, Movers: 181, Still: 4819
+Iteration 830 -> Cooperators: 4405, Betrayers: 595, Movers: 185, Still: 4815
+Iteration 831 -> Cooperators: 4398, Betrayers: 602, Movers: 192, Still: 4808
+Iteration 832 -> Cooperators: 4386, Betrayers: 614, Movers: 187, Still: 4813
+Iteration 833 -> Cooperators: 4403, Betrayers: 597, Movers: 192, Still: 4808
+Iteration 834 -> Cooperators: 4390, Betrayers: 610, Movers: 183, Still: 4817
+Iteration 835 -> Cooperators: 4403, Betrayers: 597, Movers: 168, Still: 4832
+Iteration 836 -> Cooperators: 4397, Betrayers: 603, Movers: 184, Still: 4816
+Iteration 837 -> Cooperators: 4388, Betrayers: 612, Movers: 193, Still: 4807
+Iteration 838 -> Cooperators: 4399, Betrayers: 601, Movers: 171, Still: 4829
+Iteration 839 -> Cooperators: 4411, Betrayers: 589, Movers: 173, Still: 4827
+Iteration 840 -> Cooperators: 4384, Betrayers: 616, Movers: 167, Still: 4833
+Iteration 841 -> Cooperators: 4380, Betrayers: 620, Movers: 175, Still: 4825
+Iteration 842 -> Cooperators: 4401, Betrayers: 599, Movers: 175, Still: 4825
+Iteration 843 -> Cooperators: 4388, Betrayers: 612, Movers: 193, Still: 4807
+Iteration 844 -> Cooperators: 4403, Betrayers: 597, Movers: 189, Still: 4811
+Iteration 845 -> Cooperators: 4395, Betrayers: 605, Movers: 188, Still: 4812
+Iteration 846 -> Cooperators: 4399, Betrayers: 601, Movers: 172, Still: 4828
+Iteration 847 -> Cooperators: 4402, Betrayers: 598, Movers: 178, Still: 4822
+Iteration 848 -> Cooperators: 4416, Betrayers: 584, Movers: 193, Still: 4807
+Iteration 849 -> Cooperators: 4382, Betrayers: 618, Movers: 169, Still: 4831
+Iteration 850 -> Cooperators: 4406, Betrayers: 594, Movers: 169, Still: 4831
+Iteration 851 -> Cooperators: 4402, Betrayers: 598, Movers: 159, Still: 4841
+Iteration 852 -> Cooperators: 4398, Betrayers: 602, Movers: 175, Still: 4825
+Iteration 853 -> Cooperators: 4396, Betrayers: 604, Movers: 171, Still: 4829
+Iteration 854 -> Cooperators: 4402, Betrayers: 598, Movers: 166, Still: 4834
+Iteration 855 -> Cooperators: 4380, Betrayers: 620, Movers: 167, Still: 4833
+Iteration 856 -> Cooperators: 4415, Betrayers: 585, Movers: 166, Still: 4834
+Iteration 857 -> Cooperators: 4415, Betrayers: 585, Movers: 167, Still: 4833
+Iteration 858 -> Cooperators: 4406, Betrayers: 594, Movers: 170, Still: 4830
+Iteration 859 -> Cooperators: 4394, Betrayers: 606, Movers: 169, Still: 4831
+Iteration 860 -> Cooperators: 4391, Betrayers: 609, Movers: 169, Still: 4831
+Iteration 861 -> Cooperators: 4409, Betrayers: 591, Movers: 161, Still: 4839
+Iteration 862 -> Cooperators: 4413, Betrayers: 587, Movers: 168, Still: 4832
+Iteration 863 -> Cooperators: 4403, Betrayers: 597, Movers: 176, Still: 4824
+Iteration 864 -> Cooperators: 4401, Betrayers: 599, Movers: 173, Still: 4827
+Iteration 865 -> Cooperators: 4410, Betrayers: 590, Movers: 170, Still: 4830
+Iteration 866 -> Cooperators: 4436, Betrayers: 564, Movers: 179, Still: 4821
+Iteration 867 -> Cooperators: 4393, Betrayers: 607, Movers: 179, Still: 4821
+Iteration 868 -> Cooperators: 4395, Betrayers: 605, Movers: 163, Still: 4837
+Iteration 869 -> Cooperators: 4402, Betrayers: 598, Movers: 169, Still: 4831
+Iteration 870 -> Cooperators: 4410, Betrayers: 590, Movers: 166, Still: 4834
+Iteration 871 -> Cooperators: 4404, Betrayers: 596, Movers: 162, Still: 4838
+Iteration 872 -> Cooperators: 4400, Betrayers: 600, Movers: 166, Still: 4834
+Iteration 873 -> Cooperators: 4425, Betrayers: 575, Movers: 174, Still: 4826
+Iteration 874 -> Cooperators: 4422, Betrayers: 578, Movers: 163, Still: 4837
+Iteration 875 -> Cooperators: 4417, Betrayers: 583, Movers: 179, Still: 4821
+Iteration 876 -> Cooperators: 4406, Betrayers: 594, Movers: 161, Still: 4839
+Iteration 877 -> Cooperators: 4412, Betrayers: 588, Movers: 153, Still: 4847
+Iteration 878 -> Cooperators: 4407, Betrayers: 593, Movers: 143, Still: 4857
+Iteration 879 -> Cooperators: 4420, Betrayers: 580, Movers: 154, Still: 4846
+Iteration 880 -> Cooperators: 4398, Betrayers: 602, Movers: 160, Still: 4840
+Iteration 881 -> Cooperators: 4415, Betrayers: 585, Movers: 152, Still: 4848
+Iteration 882 -> Cooperators: 4419, Betrayers: 581, Movers: 169, Still: 4831
+Iteration 883 -> Cooperators: 4416, Betrayers: 584, Movers: 157, Still: 4843
+Iteration 884 -> Cooperators: 4407, Betrayers: 593, Movers: 167, Still: 4833
+Iteration 885 -> Cooperators: 4406, Betrayers: 594, Movers: 161, Still: 4839
+Iteration 886 -> Cooperators: 4418, Betrayers: 582, Movers: 170, Still: 4830
+Iteration 887 -> Cooperators: 4409, Betrayers: 591, Movers: 147, Still: 4853
+Iteration 888 -> Cooperators: 4390, Betrayers: 610, Movers: 154, Still: 4846
+Iteration 889 -> Cooperators: 4407, Betrayers: 593, Movers: 178, Still: 4822
+Iteration 890 -> Cooperators: 4406, Betrayers: 594, Movers: 154, Still: 4846
+Iteration 891 -> Cooperators: 4421, Betrayers: 579, Movers: 172, Still: 4828
+Iteration 892 -> Cooperators: 4396, Betrayers: 604, Movers: 152, Still: 4848
+Iteration 893 -> Cooperators: 4410, Betrayers: 590, Movers: 167, Still: 4833
+Iteration 894 -> Cooperators: 4428, Betrayers: 572, Movers: 151, Still: 4849
+Iteration 895 -> Cooperators: 4414, Betrayers: 586, Movers: 152, Still: 4848
+Iteration 896 -> Cooperators: 4408, Betrayers: 592, Movers: 161, Still: 4839
+Iteration 897 -> Cooperators: 4401, Betrayers: 599, Movers: 152, Still: 4848
+Iteration 898 -> Cooperators: 4424, Betrayers: 576, Movers: 157, Still: 4843
+Iteration 899 -> Cooperators: 4402, Betrayers: 598, Movers: 148, Still: 4852
+Iteration 900 -> Cooperators: 4407, Betrayers: 593, Movers: 166, Still: 4834
+Iteration 901 -> Cooperators: 4418, Betrayers: 582, Movers: 137, Still: 4863
+Iteration 902 -> Cooperators: 4396, Betrayers: 604, Movers: 172, Still: 4828
+Iteration 903 -> Cooperators: 4410, Betrayers: 590, Movers: 151, Still: 4849
+Iteration 904 -> Cooperators: 4424, Betrayers: 576, Movers: 148, Still: 4852
+Iteration 905 -> Cooperators: 4419, Betrayers: 581, Movers: 158, Still: 4842
+Iteration 906 -> Cooperators: 4418, Betrayers: 582, Movers: 160, Still: 4840
+Iteration 907 -> Cooperators: 4403, Betrayers: 597, Movers: 152, Still: 4848
+Iteration 908 -> Cooperators: 4396, Betrayers: 604, Movers: 158, Still: 4842
+Iteration 909 -> Cooperators: 4412, Betrayers: 588, Movers: 164, Still: 4836
+Iteration 910 -> Cooperators: 4421, Betrayers: 579, Movers: 149, Still: 4851
+Iteration 911 -> Cooperators: 4414, Betrayers: 586, Movers: 157, Still: 4843
+Iteration 912 -> Cooperators: 4398, Betrayers: 602, Movers: 146, Still: 4854
+Iteration 913 -> Cooperators: 4415, Betrayers: 585, Movers: 156, Still: 4844
+Iteration 914 -> Cooperators: 4405, Betrayers: 595, Movers: 153, Still: 4847
+Iteration 915 -> Cooperators: 4398, Betrayers: 602, Movers: 144, Still: 4856
+Iteration 916 -> Cooperators: 4418, Betrayers: 582, Movers: 143, Still: 4857
+Iteration 917 -> Cooperators: 4404, Betrayers: 596, Movers: 140, Still: 4860
+Iteration 918 -> Cooperators: 4410, Betrayers: 590, Movers: 151, Still: 4849
+Iteration 919 -> Cooperators: 4416, Betrayers: 584, Movers: 149, Still: 4851
+Iteration 920 -> Cooperators: 4413, Betrayers: 587, Movers: 168, Still: 4832
+Iteration 921 -> Cooperators: 4413, Betrayers: 587, Movers: 144, Still: 4856
+Iteration 922 -> Cooperators: 4411, Betrayers: 589, Movers: 154, Still: 4846
+Iteration 923 -> Cooperators: 4406, Betrayers: 594, Movers: 137, Still: 4863
+Iteration 924 -> Cooperators: 4406, Betrayers: 594, Movers: 153, Still: 4847
+Iteration 925 -> Cooperators: 4420, Betrayers: 580, Movers: 140, Still: 4860
+Iteration 926 -> Cooperators: 4415, Betrayers: 585, Movers: 148, Still: 4852
+Iteration 927 -> Cooperators: 4414, Betrayers: 586, Movers: 154, Still: 4846
+Iteration 928 -> Cooperators: 4417, Betrayers: 583, Movers: 149, Still: 4851
+Iteration 929 -> Cooperators: 4420, Betrayers: 580, Movers: 148, Still: 4852
+Iteration 930 -> Cooperators: 4403, Betrayers: 597, Movers: 147, Still: 4853
+Iteration 931 -> Cooperators: 4406, Betrayers: 594, Movers: 138, Still: 4862
+Iteration 932 -> Cooperators: 4418, Betrayers: 582, Movers: 149, Still: 4851
+Iteration 933 -> Cooperators: 4408, Betrayers: 592, Movers: 151, Still: 4849
+Iteration 934 -> Cooperators: 4411, Betrayers: 589, Movers: 152, Still: 4848
+Iteration 935 -> Cooperators: 4418, Betrayers: 582, Movers: 138, Still: 4862
+Iteration 936 -> Cooperators: 4409, Betrayers: 591, Movers: 148, Still: 4852
+Iteration 937 -> Cooperators: 4408, Betrayers: 592, Movers: 162, Still: 4838
+Iteration 938 -> Cooperators: 4414, Betrayers: 586, Movers: 143, Still: 4857
+Iteration 939 -> Cooperators: 4412, Betrayers: 588, Movers: 144, Still: 4856
+Iteration 940 -> Cooperators: 4433, Betrayers: 567, Movers: 154, Still: 4846
+Iteration 941 -> Cooperators: 4424, Betrayers: 576, Movers: 145, Still: 4855
+Iteration 942 -> Cooperators: 4412, Betrayers: 588, Movers: 124, Still: 4876
+Iteration 943 -> Cooperators: 4417, Betrayers: 583, Movers: 135, Still: 4865
+Iteration 944 -> Cooperators: 4429, Betrayers: 571, Movers: 143, Still: 4857
+Iteration 945 -> Cooperators: 4408, Betrayers: 592, Movers: 132, Still: 4868
+Iteration 946 -> Cooperators: 4411, Betrayers: 589, Movers: 146, Still: 4854
+Iteration 947 -> Cooperators: 4410, Betrayers: 590, Movers: 162, Still: 4838
+Iteration 948 -> Cooperators: 4409, Betrayers: 591, Movers: 142, Still: 4858
+Iteration 949 -> Cooperators: 4420, Betrayers: 580, Movers: 139, Still: 4861
+Iteration 950 -> Cooperators: 4420, Betrayers: 580, Movers: 144, Still: 4856
+Iteration 951 -> Cooperators: 4415, Betrayers: 585, Movers: 131, Still: 4869
+Iteration 952 -> Cooperators: 4423, Betrayers: 577, Movers: 148, Still: 4852
+Iteration 953 -> Cooperators: 4422, Betrayers: 578, Movers: 126, Still: 4874
+Iteration 954 -> Cooperators: 4424, Betrayers: 576, Movers: 136, Still: 4864
+Iteration 955 -> Cooperators: 4418, Betrayers: 582, Movers: 125, Still: 4875
+Iteration 956 -> Cooperators: 4422, Betrayers: 578, Movers: 150, Still: 4850
+Iteration 957 -> Cooperators: 4427, Betrayers: 573, Movers: 145, Still: 4855
+Iteration 958 -> Cooperators: 4417, Betrayers: 583, Movers: 123, Still: 4877
+Iteration 959 -> Cooperators: 4427, Betrayers: 573, Movers: 144, Still: 4856
+Iteration 960 -> Cooperators: 4416, Betrayers: 584, Movers: 130, Still: 4870
+Iteration 961 -> Cooperators: 4419, Betrayers: 581, Movers: 133, Still: 4867
+Iteration 962 -> Cooperators: 4412, Betrayers: 588, Movers: 131, Still: 4869
+Iteration 963 -> Cooperators: 4413, Betrayers: 587, Movers: 150, Still: 4850
+Iteration 964 -> Cooperators: 4413, Betrayers: 587, Movers: 128, Still: 4872
+Iteration 965 -> Cooperators: 4419, Betrayers: 581, Movers: 140, Still: 4860
+Iteration 966 -> Cooperators: 4427, Betrayers: 573, Movers: 128, Still: 4872
+Iteration 967 -> Cooperators: 4417, Betrayers: 583, Movers: 128, Still: 4872
+Iteration 968 -> Cooperators: 4424, Betrayers: 576, Movers: 133, Still: 4867
+Iteration 969 -> Cooperators: 4409, Betrayers: 591, Movers: 118, Still: 4882
+Iteration 970 -> Cooperators: 4419, Betrayers: 581, Movers: 133, Still: 4867
+Iteration 971 -> Cooperators: 4429, Betrayers: 571, Movers: 134, Still: 4866
+Iteration 972 -> Cooperators: 4424, Betrayers: 576, Movers: 143, Still: 4857
+Iteration 973 -> Cooperators: 4408, Betrayers: 592, Movers: 128, Still: 4872
+Iteration 974 -> Cooperators: 4422, Betrayers: 578, Movers: 137, Still: 4863
+Iteration 975 -> Cooperators: 4418, Betrayers: 582, Movers: 135, Still: 4865
+Iteration 976 -> Cooperators: 4413, Betrayers: 587, Movers: 143, Still: 4857
+Iteration 977 -> Cooperators: 4417, Betrayers: 583, Movers: 120, Still: 4880
+Iteration 978 -> Cooperators: 4409, Betrayers: 591, Movers: 141, Still: 4859
+Iteration 979 -> Cooperators: 4421, Betrayers: 579, Movers: 124, Still: 4876
+Iteration 980 -> Cooperators: 4417, Betrayers: 583, Movers: 136, Still: 4864
+Iteration 981 -> Cooperators: 4418, Betrayers: 582, Movers: 155, Still: 4845
+Iteration 982 -> Cooperators: 4429, Betrayers: 571, Movers: 137, Still: 4863
+Iteration 983 -> Cooperators: 4413, Betrayers: 587, Movers: 133, Still: 4867
+Iteration 984 -> Cooperators: 4425, Betrayers: 575, Movers: 133, Still: 4867
+Iteration 985 -> Cooperators: 4405, Betrayers: 595, Movers: 141, Still: 4859
+Iteration 986 -> Cooperators: 4421, Betrayers: 579, Movers: 133, Still: 4867
+Iteration 987 -> Cooperators: 4426, Betrayers: 574, Movers: 125, Still: 4875
+Iteration 988 -> Cooperators: 4416, Betrayers: 584, Movers: 133, Still: 4867
+Iteration 989 -> Cooperators: 4421, Betrayers: 579, Movers: 140, Still: 4860
+Iteration 990 -> Cooperators: 4418, Betrayers: 582, Movers: 131, Still: 4869
+Iteration 991 -> Cooperators: 4416, Betrayers: 584, Movers: 121, Still: 4879
+Iteration 992 -> Cooperators: 4430, Betrayers: 570, Movers: 114, Still: 4886
+Iteration 993 -> Cooperators: 4430, Betrayers: 570, Movers: 126, Still: 4874
+Iteration 994 -> Cooperators: 4421, Betrayers: 579, Movers: 123, Still: 4877
+Iteration 995 -> Cooperators: 4414, Betrayers: 586, Movers: 139, Still: 4861
+Iteration 996 -> Cooperators: 4424, Betrayers: 576, Movers: 130, Still: 4870
+Iteration 997 -> Cooperators: 4450, Betrayers: 550, Movers: 120, Still: 4880
+Iteration 998 -> Cooperators: 4425, Betrayers: 575, Movers: 124, Still: 4876
+Iteration 999 -> Cooperators: 4423, Betrayers: 577, Movers: 123, Still: 4877
+Iteration 1000 -> Cooperators: 4435, Betrayers: 565, Movers: 109, Still: 4891
+
+Simulation finished. Final log data:
+Iteration 1: C=2557, B=2443, M=2657, S=2343
+Iteration 2: C=2683, B=2317, M=2708, S=2292
+Iteration 3: C=2756, B=2244, M=2643, S=2357
+Iteration 4: C=2954, B=2046, M=2615, S=2385
+Iteration 5: C=2966, B=2034, M=2656, S=2344
+Iteration 6: C=2985, B=2015, M=2581, S=2419
+Iteration 7: C=3038, B=1962, M=2565, S=2435
+Iteration 8: C=3131, B=1869, M=2492, S=2508
+Iteration 9: C=3132, B=1868, M=2548, S=2452
+Iteration 10: C=3260, B=1740, M=2519, S=2481
+Iteration 11: C=3255, B=1745, M=2524, S=2476
+Iteration 12: C=3340, B=1660, M=2548, S=2452
+Iteration 13: C=3304, B=1696, M=2491, S=2509
+Iteration 14: C=3371, B=1629, M=2460, S=2540
+Iteration 15: C=3361, B=1639, M=2481, S=2519
+Iteration 16: C=3432, B=1568, M=2505, S=2495
+Iteration 17: C=3485, B=1515, M=2426, S=2574
+Iteration 18: C=3486, B=1514, M=2472, S=2528
+Iteration 19: C=3515, B=1485, M=2442, S=2558
+Iteration 20: C=3463, B=1537, M=2463, S=2537
+Iteration 21: C=3541, B=1459, M=2523, S=2477
+Iteration 22: C=3490, B=1510, M=2481, S=2519
+Iteration 23: C=3588, B=1412, M=2499, S=2501
+Iteration 24: C=3595, B=1405, M=2468, S=2532
+Iteration 25: C=3604, B=1396, M=2407, S=2593
+Iteration 26: C=3617, B=1383, M=2393, S=2607
+Iteration 27: C=3606, B=1394, M=2357, S=2643
+Iteration 28: C=3633, B=1367, M=2400, S=2600
+Iteration 29: C=3694, B=1306, M=2444, S=2556
+Iteration 30: C=3652, B=1348, M=2350, S=2650
+Iteration 31: C=3716, B=1284, M=2319, S=2681
+Iteration 32: C=3716, B=1284, M=2353, S=2647
+Iteration 33: C=3756, B=1244, M=2328, S=2672
+Iteration 34: C=3716, B=1284, M=2375, S=2625
+Iteration 35: C=3712, B=1288, M=2325, S=2675
+Iteration 36: C=3748, B=1252, M=2319, S=2681
+Iteration 37: C=3745, B=1255, M=2323, S=2677
+Iteration 38: C=3776, B=1224, M=2353, S=2647
+Iteration 39: C=3851, B=1149, M=2324, S=2676
+Iteration 40: C=3874, B=1126, M=2323, S=2677
+Iteration 41: C=3827, B=1173, M=2330, S=2670
+Iteration 42: C=3813, B=1187, M=2255, S=2745
+Iteration 43: C=3845, B=1155, M=2293, S=2707
+Iteration 44: C=3855, B=1145, M=2293, S=2707
+Iteration 45: C=3868, B=1132, M=2301, S=2699
+Iteration 46: C=3811, B=1189, M=2297, S=2703
+Iteration 47: C=3835, B=1165, M=2241, S=2759
+Iteration 48: C=3834, B=1166, M=2275, S=2725
+Iteration 49: C=3906, B=1094, M=2215, S=2785
+Iteration 50: C=3854, B=1146, M=2212, S=2788
+Iteration 51: C=3859, B=1141, M=2263, S=2737
+Iteration 52: C=3848, B=1152, M=2216, S=2784
+Iteration 53: C=3871, B=1129, M=2216, S=2784
+Iteration 54: C=3850, B=1150, M=2266, S=2734
+Iteration 55: C=3822, B=1178, M=2229, S=2771
+Iteration 56: C=3917, B=1083, M=2237, S=2763
+Iteration 57: C=3837, B=1163, M=2165, S=2835
+Iteration 58: C=3921, B=1079, M=2165, S=2835
+Iteration 59: C=3864, B=1136, M=2165, S=2835
+Iteration 60: C=3889, B=1111, M=2182, S=2818
+Iteration 61: C=3929, B=1071, M=2186, S=2814
+Iteration 62: C=3909, B=1091, M=2198, S=2802
+Iteration 63: C=3925, B=1075, M=2165, S=2835
+Iteration 64: C=3918, B=1082, M=2145, S=2855
+Iteration 65: C=3869, B=1131, M=2130, S=2870
+Iteration 66: C=3897, B=1103, M=2220, S=2780
+Iteration 67: C=3910, B=1090, M=2156, S=2844
+Iteration 68: C=3888, B=1112, M=2078, S=2922
+Iteration 69: C=3903, B=1097, M=2172, S=2828
+Iteration 70: C=3909, B=1091, M=2116, S=2884
+Iteration 71: C=3892, B=1108, M=2060, S=2940
+Iteration 72: C=3901, B=1099, M=2077, S=2923
+Iteration 73: C=3891, B=1109, M=2131, S=2869
+Iteration 74: C=3902, B=1098, M=2091, S=2909
+Iteration 75: C=3915, B=1085, M=2102, S=2898
+Iteration 76: C=3946, B=1054, M=2107, S=2893
+Iteration 77: C=3871, B=1129, M=2059, S=2941
+Iteration 78: C=3904, B=1096, M=2083, S=2917
+Iteration 79: C=3937, B=1063, M=2015, S=2985
+Iteration 80: C=3920, B=1080, M=2042, S=2958
+Iteration 81: C=3874, B=1126, M=2089, S=2911
+Iteration 82: C=3854, B=1146, M=2070, S=2930
+Iteration 83: C=3853, B=1147, M=2102, S=2898
+Iteration 84: C=3867, B=1133, M=1994, S=3006
+Iteration 85: C=3891, B=1109, M=2024, S=2976
+Iteration 86: C=3888, B=1112, M=2002, S=2998
+Iteration 87: C=3841, B=1159, M=2041, S=2959
+Iteration 88: C=3833, B=1167, M=2055, S=2945
+Iteration 89: C=3885, B=1115, M=1941, S=3059
+Iteration 90: C=3877, B=1123, M=1954, S=3046
+Iteration 91: C=3828, B=1172, M=1923, S=3077
+Iteration 92: C=3888, B=1112, M=1890, S=3110
+Iteration 93: C=3881, B=1119, M=1922, S=3078
+Iteration 94: C=3909, B=1091, M=1967, S=3033
+Iteration 95: C=3852, B=1148, M=1904, S=3096
+Iteration 96: C=3860, B=1140, M=1921, S=3079
+Iteration 97: C=3874, B=1126, M=1922, S=3078
+Iteration 98: C=3878, B=1122, M=1896, S=3104
+Iteration 99: C=3836, B=1164, M=1925, S=3075
+Iteration 100: C=3889, B=1111, M=1864, S=3136
+Iteration 101: C=3878, B=1122, M=1842, S=3158
+Iteration 102: C=3897, B=1103, M=1898, S=3102
+Iteration 103: C=3890, B=1110, M=1856, S=3144
+Iteration 104: C=3853, B=1147, M=1829, S=3171
+Iteration 105: C=3898, B=1102, M=1865, S=3135
+Iteration 106: C=3886, B=1114, M=1819, S=3181
+Iteration 107: C=3866, B=1134, M=1807, S=3193
+Iteration 108: C=3917, B=1083, M=1800, S=3200
+Iteration 109: C=3874, B=1126, M=1844, S=3156
+Iteration 110: C=3877, B=1123, M=1820, S=3180
+Iteration 111: C=3872, B=1128, M=1790, S=3210
+Iteration 112: C=3866, B=1134, M=1774, S=3226
+Iteration 113: C=3895, B=1105, M=1786, S=3214
+Iteration 114: C=3929, B=1071, M=1813, S=3187
+Iteration 115: C=3865, B=1135, M=1854, S=3146
+Iteration 116: C=3930, B=1070, M=1798, S=3202
+Iteration 117: C=3940, B=1060, M=1789, S=3211
+Iteration 118: C=3901, B=1099, M=1776, S=3224
+Iteration 119: C=3885, B=1115, M=1802, S=3198
+Iteration 120: C=3926, B=1074, M=1769, S=3231
+Iteration 121: C=3870, B=1130, M=1759, S=3241
+Iteration 122: C=3923, B=1077, M=1743, S=3257
+Iteration 123: C=3927, B=1073, M=1755, S=3245
+Iteration 124: C=3931, B=1069, M=1740, S=3260
+Iteration 125: C=3853, B=1147, M=1763, S=3237
+Iteration 126: C=3846, B=1154, M=1718, S=3282
+Iteration 127: C=3927, B=1073, M=1686, S=3314
+Iteration 128: C=3900, B=1100, M=1696, S=3304
+Iteration 129: C=3864, B=1136, M=1705, S=3295
+Iteration 130: C=3865, B=1135, M=1718, S=3282
+Iteration 131: C=3870, B=1130, M=1685, S=3315
+Iteration 132: C=3869, B=1131, M=1683, S=3317
+Iteration 133: C=3931, B=1069, M=1669, S=3331
+Iteration 134: C=3833, B=1167, M=1653, S=3347
+Iteration 135: C=3889, B=1111, M=1647, S=3353
+Iteration 136: C=3885, B=1115, M=1678, S=3322
+Iteration 137: C=3871, B=1129, M=1673, S=3327
+Iteration 138: C=3916, B=1084, M=1648, S=3352
+Iteration 139: C=3854, B=1146, M=1638, S=3362
+Iteration 140: C=3943, B=1057, M=1631, S=3369
+Iteration 141: C=3919, B=1081, M=1623, S=3377
+Iteration 142: C=3919, B=1081, M=1638, S=3362
+Iteration 143: C=3876, B=1124, M=1642, S=3358
+Iteration 144: C=3872, B=1128, M=1653, S=3347
+Iteration 145: C=3928, B=1072, M=1618, S=3382
+Iteration 146: C=3877, B=1123, M=1649, S=3351
+Iteration 147: C=3911, B=1089, M=1616, S=3384
+Iteration 148: C=3874, B=1126, M=1610, S=3390
+Iteration 149: C=3915, B=1085, M=1569, S=3431
+Iteration 150: C=3926, B=1074, M=1612, S=3388
+Iteration 151: C=3900, B=1100, M=1587, S=3413
+Iteration 152: C=3884, B=1116, M=1562, S=3438
+Iteration 153: C=3902, B=1098, M=1573, S=3427
+Iteration 154: C=3908, B=1092, M=1563, S=3437
+Iteration 155: C=3934, B=1066, M=1510, S=3490
+Iteration 156: C=3955, B=1045, M=1506, S=3494
+Iteration 157: C=3918, B=1082, M=1519, S=3481
+Iteration 158: C=3867, B=1133, M=1485, S=3515
+Iteration 159: C=3882, B=1118, M=1531, S=3469
+Iteration 160: C=3942, B=1058, M=1495, S=3505
+Iteration 161: C=3913, B=1087, M=1523, S=3477
+Iteration 162: C=3905, B=1095, M=1544, S=3456
+Iteration 163: C=3944, B=1056, M=1506, S=3494
+Iteration 164: C=3921, B=1079, M=1489, S=3511
+Iteration 165: C=3888, B=1112, M=1484, S=3516
+Iteration 166: C=3924, B=1076, M=1449, S=3551
+Iteration 167: C=3912, B=1088, M=1531, S=3469
+Iteration 168: C=3873, B=1127, M=1473, S=3527
+Iteration 169: C=3923, B=1077, M=1468, S=3532
+Iteration 170: C=3941, B=1059, M=1458, S=3542
+Iteration 171: C=3916, B=1084, M=1470, S=3530
+Iteration 172: C=3922, B=1078, M=1489, S=3511
+Iteration 173: C=3929, B=1071, M=1410, S=3590
+Iteration 174: C=3901, B=1099, M=1428, S=3572
+Iteration 175: C=3903, B=1097, M=1448, S=3552
+Iteration 176: C=3921, B=1079, M=1394, S=3606
+Iteration 177: C=3884, B=1116, M=1366, S=3634
+Iteration 178: C=3944, B=1056, M=1386, S=3614
+Iteration 179: C=3931, B=1069, M=1379, S=3621
+Iteration 180: C=3922, B=1078, M=1404, S=3596
+Iteration 181: C=3932, B=1068, M=1395, S=3605
+Iteration 182: C=3963, B=1037, M=1406, S=3594
+Iteration 183: C=3933, B=1067, M=1346, S=3654
+Iteration 184: C=3953, B=1047, M=1382, S=3618
+Iteration 185: C=3983, B=1017, M=1363, S=3637
+Iteration 186: C=3929, B=1071, M=1355, S=3645
+Iteration 187: C=3937, B=1063, M=1371, S=3629
+Iteration 188: C=3934, B=1066, M=1361, S=3639
+Iteration 189: C=3940, B=1060, M=1336, S=3664
+Iteration 190: C=3937, B=1063, M=1347, S=3653
+Iteration 191: C=3955, B=1045, M=1349, S=3651
+Iteration 192: C=3970, B=1030, M=1326, S=3674
+Iteration 193: C=3933, B=1067, M=1326, S=3674
+Iteration 194: C=3970, B=1030, M=1328, S=3672
+Iteration 195: C=3938, B=1062, M=1317, S=3683
+Iteration 196: C=3956, B=1044, M=1293, S=3707
+Iteration 197: C=4003, B=997, M=1321, S=3679
+Iteration 198: C=3934, B=1066, M=1290, S=3710
+Iteration 199: C=3964, B=1036, M=1308, S=3692
+Iteration 200: C=3957, B=1043, M=1332, S=3668
+Iteration 201: C=3930, B=1070, M=1301, S=3699
+Iteration 202: C=3954, B=1046, M=1286, S=3714
+Iteration 203: C=3983, B=1017, M=1257, S=3743
+Iteration 204: C=3944, B=1056, M=1274, S=3726
+Iteration 205: C=3934, B=1066, M=1326, S=3674
+Iteration 206: C=3964, B=1036, M=1255, S=3745
+Iteration 207: C=3956, B=1044, M=1257, S=3743
+Iteration 208: C=4005, B=995, M=1236, S=3764
+Iteration 209: C=4004, B=996, M=1216, S=3784
+Iteration 210: C=3944, B=1056, M=1288, S=3712
+Iteration 211: C=3965, B=1035, M=1219, S=3781
+Iteration 212: C=3982, B=1018, M=1155, S=3845
+Iteration 213: C=3981, B=1019, M=1221, S=3779
+Iteration 214: C=3956, B=1044, M=1214, S=3786
+Iteration 215: C=4002, B=998, M=1182, S=3818
+Iteration 216: C=4004, B=996, M=1207, S=3793
+Iteration 217: C=3975, B=1025, M=1212, S=3788
+Iteration 218: C=3979, B=1021, M=1195, S=3805
+Iteration 219: C=3981, B=1019, M=1144, S=3856
+Iteration 220: C=3959, B=1041, M=1187, S=3813
+Iteration 221: C=3990, B=1010, M=1160, S=3840
+Iteration 222: C=3965, B=1035, M=1158, S=3842
+Iteration 223: C=3977, B=1023, M=1124, S=3876
+Iteration 224: C=4000, B=1000, M=1151, S=3849
+Iteration 225: C=4014, B=986, M=1142, S=3858
+Iteration 226: C=3966, B=1034, M=1146, S=3854
+Iteration 227: C=4006, B=994, M=1146, S=3854
+Iteration 228: C=3998, B=1002, M=1156, S=3844
+Iteration 229: C=3979, B=1021, M=1115, S=3885
+Iteration 230: C=3997, B=1003, M=1120, S=3880
+Iteration 231: C=3969, B=1031, M=1149, S=3851
+Iteration 232: C=3982, B=1018, M=1139, S=3861
+Iteration 233: C=4017, B=983, M=1080, S=3920
+Iteration 234: C=3987, B=1013, M=1143, S=3857
+Iteration 235: C=3995, B=1005, M=1128, S=3872
+Iteration 236: C=3980, B=1020, M=1106, S=3894
+Iteration 237: C=4008, B=992, M=1090, S=3910
+Iteration 238: C=4024, B=976, M=1097, S=3903
+Iteration 239: C=3983, B=1017, M=1089, S=3911
+Iteration 240: C=3994, B=1006, M=1069, S=3931
+Iteration 241: C=3987, B=1013, M=1102, S=3898
+Iteration 242: C=3994, B=1006, M=1092, S=3908
+Iteration 243: C=4045, B=955, M=1059, S=3941
+Iteration 244: C=4016, B=984, M=1048, S=3952
+Iteration 245: C=4000, B=1000, M=1081, S=3919
+Iteration 246: C=3965, B=1035, M=1038, S=3962
+Iteration 247: C=4040, B=960, M=1100, S=3900
+Iteration 248: C=4038, B=962, M=1125, S=3875
+Iteration 249: C=4007, B=993, M=1060, S=3940
+Iteration 250: C=4014, B=986, M=1084, S=3916
+Iteration 251: C=4022, B=978, M=1056, S=3944
+Iteration 252: C=4070, B=930, M=1037, S=3963
+Iteration 253: C=4070, B=930, M=1021, S=3979
+Iteration 254: C=4036, B=964, M=993, S=4007
+Iteration 255: C=4054, B=946, M=1007, S=3993
+Iteration 256: C=4044, B=956, M=1015, S=3985
+Iteration 257: C=4058, B=942, M=1057, S=3943
+Iteration 258: C=4031, B=969, M=1025, S=3975
+Iteration 259: C=4085, B=915, M=1040, S=3960
+Iteration 260: C=4063, B=937, M=1011, S=3989
+Iteration 261: C=4031, B=969, M=1012, S=3988
+Iteration 262: C=4027, B=973, M=1023, S=3977
+Iteration 263: C=4052, B=948, M=976, S=4024
+Iteration 264: C=4051, B=949, M=956, S=4044
+Iteration 265: C=4093, B=907, M=960, S=4040
+Iteration 266: C=4045, B=955, M=983, S=4017
+Iteration 267: C=4032, B=968, M=987, S=4013
+Iteration 268: C=4090, B=910, M=975, S=4025
+Iteration 269: C=4043, B=957, M=972, S=4028
+Iteration 270: C=4081, B=919, M=977, S=4023
+Iteration 271: C=4078, B=922, M=928, S=4072
+Iteration 272: C=4059, B=941, M=960, S=4040
+Iteration 273: C=3994, B=1006, M=933, S=4067
+Iteration 274: C=4034, B=966, M=988, S=4012
+Iteration 275: C=4070, B=930, M=935, S=4065
+Iteration 276: C=4106, B=894, M=976, S=4024
+Iteration 277: C=4065, B=935, M=955, S=4045
+Iteration 278: C=4065, B=935, M=953, S=4047
+Iteration 279: C=4043, B=957, M=906, S=4094
+Iteration 280: C=4065, B=935, M=935, S=4065
+Iteration 281: C=4086, B=914, M=918, S=4082
+Iteration 282: C=4075, B=925, M=927, S=4073
+Iteration 283: C=4046, B=954, M=882, S=4118
+Iteration 284: C=4062, B=938, M=926, S=4074
+Iteration 285: C=4083, B=917, M=908, S=4092
+Iteration 286: C=4077, B=923, M=900, S=4100
+Iteration 287: C=4072, B=928, M=904, S=4096
+Iteration 288: C=4075, B=925, M=916, S=4084
+Iteration 289: C=4069, B=931, M=930, S=4070
+Iteration 290: C=4055, B=945, M=908, S=4092
+Iteration 291: C=4075, B=925, M=888, S=4112
+Iteration 292: C=4074, B=926, M=893, S=4107
+Iteration 293: C=4049, B=951, M=883, S=4117
+Iteration 294: C=4113, B=887, M=914, S=4086
+Iteration 295: C=4065, B=935, M=897, S=4103
+Iteration 296: C=4083, B=917, M=913, S=4087
+Iteration 297: C=4090, B=910, M=870, S=4130
+Iteration 298: C=4100, B=900, M=897, S=4103
+Iteration 299: C=4084, B=916, M=873, S=4127
+Iteration 300: C=4102, B=898, M=871, S=4129
+Iteration 301: C=4088, B=912, M=867, S=4133
+Iteration 302: C=4081, B=919, M=843, S=4157
+Iteration 303: C=4091, B=909, M=850, S=4150
+Iteration 304: C=4088, B=912, M=859, S=4141
+Iteration 305: C=4088, B=912, M=816, S=4184
+Iteration 306: C=4108, B=892, M=897, S=4103
+Iteration 307: C=4055, B=945, M=859, S=4141
+Iteration 308: C=4072, B=928, M=830, S=4170
+Iteration 309: C=4081, B=919, M=847, S=4153
+Iteration 310: C=4080, B=920, M=863, S=4137
+Iteration 311: C=4097, B=903, M=815, S=4185
+Iteration 312: C=4100, B=900, M=831, S=4169
+Iteration 313: C=4096, B=904, M=838, S=4162
+Iteration 314: C=4095, B=905, M=893, S=4107
+Iteration 315: C=4096, B=904, M=828, S=4172
+Iteration 316: C=4104, B=896, M=819, S=4181
+Iteration 317: C=4085, B=915, M=823, S=4177
+Iteration 318: C=4124, B=876, M=834, S=4166
+Iteration 319: C=4114, B=886, M=852, S=4148
+Iteration 320: C=4090, B=910, M=822, S=4178
+Iteration 321: C=4090, B=910, M=873, S=4127
+Iteration 322: C=4107, B=893, M=817, S=4183
+Iteration 323: C=4111, B=889, M=823, S=4177
+Iteration 324: C=4099, B=901, M=819, S=4181
+Iteration 325: C=4103, B=897, M=824, S=4176
+Iteration 326: C=4115, B=885, M=844, S=4156
+Iteration 327: C=4134, B=866, M=825, S=4175
+Iteration 328: C=4084, B=916, M=812, S=4188
+Iteration 329: C=4109, B=891, M=781, S=4219
+Iteration 330: C=4095, B=905, M=806, S=4194
+Iteration 331: C=4096, B=904, M=801, S=4199
+Iteration 332: C=4111, B=889, M=812, S=4188
+Iteration 333: C=4121, B=879, M=819, S=4181
+Iteration 334: C=4124, B=876, M=767, S=4233
+Iteration 335: C=4124, B=876, M=792, S=4208
+Iteration 336: C=4076, B=924, M=744, S=4256
+Iteration 337: C=4112, B=888, M=811, S=4189
+Iteration 338: C=4101, B=899, M=771, S=4229
+Iteration 339: C=4125, B=875, M=769, S=4231
+Iteration 340: C=4076, B=924, M=775, S=4225
+Iteration 341: C=4107, B=893, M=772, S=4228
+Iteration 342: C=4113, B=887, M=774, S=4226
+Iteration 343: C=4110, B=890, M=759, S=4241
+Iteration 344: C=4115, B=885, M=730, S=4270
+Iteration 345: C=4149, B=851, M=746, S=4254
+Iteration 346: C=4134, B=866, M=731, S=4269
+Iteration 347: C=4126, B=874, M=760, S=4240
+Iteration 348: C=4119, B=881, M=745, S=4255
+Iteration 349: C=4123, B=877, M=728, S=4272
+Iteration 350: C=4149, B=851, M=765, S=4235
+Iteration 351: C=4127, B=873, M=716, S=4284
+Iteration 352: C=4121, B=879, M=791, S=4209
+Iteration 353: C=4124, B=876, M=733, S=4267
+Iteration 354: C=4120, B=880, M=723, S=4277
+Iteration 355: C=4131, B=869, M=737, S=4263
+Iteration 356: C=4123, B=877, M=723, S=4277
+Iteration 357: C=4141, B=859, M=715, S=4285
+Iteration 358: C=4152, B=848, M=729, S=4271
+Iteration 359: C=4125, B=875, M=728, S=4272
+Iteration 360: C=4131, B=869, M=722, S=4278
+Iteration 361: C=4131, B=869, M=733, S=4267
+Iteration 362: C=4144, B=856, M=718, S=4282
+Iteration 363: C=4142, B=858, M=688, S=4312
+Iteration 364: C=4142, B=858, M=722, S=4278
+Iteration 365: C=4125, B=875, M=664, S=4336
+Iteration 366: C=4143, B=857, M=697, S=4303
+Iteration 367: C=4147, B=853, M=724, S=4276
+Iteration 368: C=4134, B=866, M=677, S=4323
+Iteration 369: C=4131, B=869, M=703, S=4297
+Iteration 370: C=4157, B=843, M=713, S=4287
+Iteration 371: C=4148, B=852, M=679, S=4321
+Iteration 372: C=4140, B=860, M=693, S=4307
+Iteration 373: C=4121, B=879, M=666, S=4334
+Iteration 374: C=4155, B=845, M=664, S=4336
+Iteration 375: C=4151, B=849, M=639, S=4361
+Iteration 376: C=4131, B=869, M=683, S=4317
+Iteration 377: C=4146, B=854, M=676, S=4324
+Iteration 378: C=4143, B=857, M=656, S=4344
+Iteration 379: C=4166, B=834, M=693, S=4307
+Iteration 380: C=4170, B=830, M=674, S=4326
+Iteration 381: C=4143, B=857, M=641, S=4359
+Iteration 382: C=4197, B=803, M=680, S=4320
+Iteration 383: C=4135, B=865, M=652, S=4348
+Iteration 384: C=4172, B=828, M=650, S=4350
+Iteration 385: C=4164, B=836, M=629, S=4371
+Iteration 386: C=4201, B=799, M=627, S=4373
+Iteration 387: C=4151, B=849, M=655, S=4345
+Iteration 388: C=4171, B=829, M=645, S=4355
+Iteration 389: C=4182, B=818, M=709, S=4291
+Iteration 390: C=4142, B=858, M=622, S=4378
+Iteration 391: C=4156, B=844, M=623, S=4377
+Iteration 392: C=4182, B=818, M=650, S=4350
+Iteration 393: C=4181, B=819, M=628, S=4372
+Iteration 394: C=4172, B=828, M=610, S=4390
+Iteration 395: C=4142, B=858, M=624, S=4376
+Iteration 396: C=4157, B=843, M=588, S=4412
+Iteration 397: C=4146, B=854, M=669, S=4331
+Iteration 398: C=4160, B=840, M=617, S=4383
+Iteration 399: C=4132, B=868, M=604, S=4396
+Iteration 400: C=4159, B=841, M=592, S=4408
+Iteration 401: C=4169, B=831, M=592, S=4408
+Iteration 402: C=4189, B=811, M=600, S=4400
+Iteration 403: C=4149, B=851, M=635, S=4365
+Iteration 404: C=4192, B=808, M=614, S=4386
+Iteration 405: C=4165, B=835, M=585, S=4415
+Iteration 406: C=4183, B=817, M=618, S=4382
+Iteration 407: C=4183, B=817, M=584, S=4416
+Iteration 408: C=4167, B=833, M=630, S=4370
+Iteration 409: C=4152, B=848, M=609, S=4391
+Iteration 410: C=4184, B=816, M=584, S=4416
+Iteration 411: C=4216, B=784, M=590, S=4410
+Iteration 412: C=4214, B=786, M=623, S=4377
+Iteration 413: C=4186, B=814, M=603, S=4397
+Iteration 414: C=4208, B=792, M=596, S=4404
+Iteration 415: C=4215, B=785, M=599, S=4401
+Iteration 416: C=4200, B=800, M=547, S=4453
+Iteration 417: C=4174, B=826, M=613, S=4387
+Iteration 418: C=4199, B=801, M=567, S=4433
+Iteration 419: C=4204, B=796, M=557, S=4443
+Iteration 420: C=4174, B=826, M=550, S=4450
+Iteration 421: C=4177, B=823, M=561, S=4439
+Iteration 422: C=4194, B=806, M=562, S=4438
+Iteration 423: C=4208, B=792, M=573, S=4427
+Iteration 424: C=4193, B=807, M=583, S=4417
+Iteration 425: C=4211, B=789, M=569, S=4431
+Iteration 426: C=4188, B=812, M=566, S=4434
+Iteration 427: C=4222, B=778, M=572, S=4428
+Iteration 428: C=4213, B=787, M=556, S=4444
+Iteration 429: C=4199, B=801, M=564, S=4436
+Iteration 430: C=4201, B=799, M=569, S=4431
+Iteration 431: C=4229, B=771, M=515, S=4485
+Iteration 432: C=4200, B=800, M=540, S=4460
+Iteration 433: C=4221, B=779, M=543, S=4457
+Iteration 434: C=4218, B=782, M=531, S=4469
+Iteration 435: C=4202, B=798, M=544, S=4456
+Iteration 436: C=4210, B=790, M=533, S=4467
+Iteration 437: C=4220, B=780, M=551, S=4449
+Iteration 438: C=4241, B=759, M=537, S=4463
+Iteration 439: C=4216, B=784, M=526, S=4474
+Iteration 440: C=4242, B=758, M=522, S=4478
+Iteration 441: C=4219, B=781, M=514, S=4486
+Iteration 442: C=4241, B=759, M=552, S=4448
+Iteration 443: C=4224, B=776, M=522, S=4478
+Iteration 444: C=4231, B=769, M=535, S=4465
+Iteration 445: C=4198, B=802, M=525, S=4475
+Iteration 446: C=4219, B=781, M=516, S=4484
+Iteration 447: C=4253, B=747, M=552, S=4448
+Iteration 448: C=4242, B=758, M=553, S=4447
+Iteration 449: C=4213, B=787, M=512, S=4488
+Iteration 450: C=4239, B=761, M=505, S=4495
+Iteration 451: C=4231, B=769, M=493, S=4507
+Iteration 452: C=4238, B=762, M=520, S=4480
+Iteration 453: C=4218, B=782, M=535, S=4465
+Iteration 454: C=4248, B=752, M=511, S=4489
+Iteration 455: C=4251, B=749, M=517, S=4483
+Iteration 456: C=4255, B=745, M=511, S=4489
+Iteration 457: C=4245, B=755, M=516, S=4484
+Iteration 458: C=4270, B=730, M=480, S=4520
+Iteration 459: C=4230, B=770, M=536, S=4464
+Iteration 460: C=4226, B=774, M=484, S=4516
+Iteration 461: C=4277, B=723, M=511, S=4489
+Iteration 462: C=4242, B=758, M=510, S=4490
+Iteration 463: C=4230, B=770, M=505, S=4495
+Iteration 464: C=4272, B=728, M=519, S=4481
+Iteration 465: C=4225, B=775, M=509, S=4491
+Iteration 466: C=4240, B=760, M=479, S=4521
+Iteration 467: C=4232, B=768, M=491, S=4509
+Iteration 468: C=4230, B=770, M=486, S=4514
+Iteration 469: C=4253, B=747, M=476, S=4524
+Iteration 470: C=4251, B=749, M=508, S=4492
+Iteration 471: C=4226, B=774, M=501, S=4499
+Iteration 472: C=4271, B=729, M=485, S=4515
+Iteration 473: C=4230, B=770, M=474, S=4526
+Iteration 474: C=4232, B=768, M=461, S=4539
+Iteration 475: C=4273, B=727, M=446, S=4554
+Iteration 476: C=4271, B=729, M=494, S=4506
+Iteration 477: C=4259, B=741, M=470, S=4530
+Iteration 478: C=4257, B=743, M=461, S=4539
+Iteration 479: C=4250, B=750, M=478, S=4522
+Iteration 480: C=4231, B=769, M=463, S=4537
+Iteration 481: C=4250, B=750, M=462, S=4538
+Iteration 482: C=4275, B=725, M=465, S=4535
+Iteration 483: C=4259, B=741, M=461, S=4539
+Iteration 484: C=4246, B=754, M=476, S=4524
+Iteration 485: C=4246, B=754, M=460, S=4540
+Iteration 486: C=4251, B=749, M=453, S=4547
+Iteration 487: C=4269, B=731, M=461, S=4539
+Iteration 488: C=4264, B=736, M=451, S=4549
+Iteration 489: C=4262, B=738, M=453, S=4547
+Iteration 490: C=4248, B=752, M=445, S=4555
+Iteration 491: C=4235, B=765, M=447, S=4553
+Iteration 492: C=4289, B=711, M=447, S=4553
+Iteration 493: C=4310, B=690, M=459, S=4541
+Iteration 494: C=4262, B=738, M=450, S=4550
+Iteration 495: C=4292, B=708, M=457, S=4543
+Iteration 496: C=4273, B=727, M=429, S=4571
+Iteration 497: C=4267, B=733, M=448, S=4552
+Iteration 498: C=4300, B=700, M=461, S=4539
+Iteration 499: C=4287, B=713, M=451, S=4549
+Iteration 500: C=4303, B=697, M=430, S=4570
+Iteration 501: C=4263, B=737, M=448, S=4552
+Iteration 502: C=4265, B=735, M=445, S=4555
+Iteration 503: C=4288, B=712, M=410, S=4590
+Iteration 504: C=4267, B=733, M=425, S=4575
+Iteration 505: C=4281, B=719, M=431, S=4569
+Iteration 506: C=4276, B=724, M=416, S=4584
+Iteration 507: C=4264, B=736, M=416, S=4584
+Iteration 508: C=4291, B=709, M=426, S=4574
+Iteration 509: C=4283, B=717, M=409, S=4591
+Iteration 510: C=4286, B=714, M=419, S=4581
+Iteration 511: C=4287, B=713, M=434, S=4566
+Iteration 512: C=4282, B=718, M=441, S=4559
+Iteration 513: C=4281, B=719, M=426, S=4574
+Iteration 514: C=4277, B=723, M=428, S=4572
+Iteration 515: C=4299, B=701, M=441, S=4559
+Iteration 516: C=4297, B=703, M=434, S=4566
+Iteration 517: C=4275, B=725, M=402, S=4598
+Iteration 518: C=4278, B=722, M=404, S=4596
+Iteration 519: C=4294, B=706, M=423, S=4577
+Iteration 520: C=4293, B=707, M=405, S=4595
+Iteration 521: C=4284, B=716, M=404, S=4596
+Iteration 522: C=4260, B=740, M=437, S=4563
+Iteration 523: C=4287, B=713, M=410, S=4590
+Iteration 524: C=4303, B=697, M=418, S=4582
+Iteration 525: C=4283, B=717, M=414, S=4586
+Iteration 526: C=4278, B=722, M=386, S=4614
+Iteration 527: C=4307, B=693, M=391, S=4609
+Iteration 528: C=4305, B=695, M=399, S=4601
+Iteration 529: C=4307, B=693, M=409, S=4591
+Iteration 530: C=4307, B=693, M=411, S=4589
+Iteration 531: C=4294, B=706, M=417, S=4583
+Iteration 532: C=4291, B=709, M=421, S=4579
+Iteration 533: C=4294, B=706, M=417, S=4583
+Iteration 534: C=4292, B=708, M=377, S=4623
+Iteration 535: C=4312, B=688, M=372, S=4628
+Iteration 536: C=4291, B=709, M=395, S=4605
+Iteration 537: C=4295, B=705, M=394, S=4606
+Iteration 538: C=4296, B=704, M=398, S=4602
+Iteration 539: C=4296, B=704, M=405, S=4595
+Iteration 540: C=4306, B=694, M=386, S=4614
+Iteration 541: C=4330, B=670, M=375, S=4625
+Iteration 542: C=4283, B=717, M=383, S=4617
+Iteration 543: C=4289, B=711, M=388, S=4612
+Iteration 544: C=4298, B=702, M=367, S=4633
+Iteration 545: C=4292, B=708, M=378, S=4622
+Iteration 546: C=4304, B=696, M=416, S=4584
+Iteration 547: C=4308, B=692, M=373, S=4627
+Iteration 548: C=4314, B=686, M=382, S=4618
+Iteration 549: C=4305, B=695, M=366, S=4634
+Iteration 550: C=4276, B=724, M=357, S=4643
+Iteration 551: C=4306, B=694, M=383, S=4617
+Iteration 552: C=4292, B=708, M=379, S=4621
+Iteration 553: C=4328, B=672, M=399, S=4601
+Iteration 554: C=4278, B=722, M=368, S=4632
+Iteration 555: C=4322, B=678, M=368, S=4632
+Iteration 556: C=4293, B=707, M=370, S=4630
+Iteration 557: C=4305, B=695, M=390, S=4610
+Iteration 558: C=4332, B=668, M=398, S=4602
+Iteration 559: C=4297, B=703, M=350, S=4650
+Iteration 560: C=4307, B=693, M=376, S=4624
+Iteration 561: C=4305, B=695, M=362, S=4638
+Iteration 562: C=4293, B=707, M=356, S=4644
+Iteration 563: C=4319, B=681, M=361, S=4639
+Iteration 564: C=4338, B=662, M=362, S=4638
+Iteration 565: C=4294, B=706, M=359, S=4641
+Iteration 566: C=4322, B=678, M=355, S=4645
+Iteration 567: C=4304, B=696, M=366, S=4634
+Iteration 568: C=4310, B=690, M=349, S=4651
+Iteration 569: C=4311, B=689, M=376, S=4624
+Iteration 570: C=4310, B=690, M=356, S=4644
+Iteration 571: C=4298, B=702, M=354, S=4646
+Iteration 572: C=4307, B=693, M=357, S=4643
+Iteration 573: C=4303, B=697, M=343, S=4657
+Iteration 574: C=4309, B=691, M=342, S=4658
+Iteration 575: C=4331, B=669, M=369, S=4631
+Iteration 576: C=4318, B=682, M=349, S=4651
+Iteration 577: C=4306, B=694, M=319, S=4681
+Iteration 578: C=4301, B=699, M=353, S=4647
+Iteration 579: C=4306, B=694, M=348, S=4652
+Iteration 580: C=4310, B=690, M=361, S=4639
+Iteration 581: C=4337, B=663, M=325, S=4675
+Iteration 582: C=4330, B=670, M=353, S=4647
+Iteration 583: C=4320, B=680, M=353, S=4647
+Iteration 584: C=4335, B=665, M=349, S=4651
+Iteration 585: C=4310, B=690, M=362, S=4638
+Iteration 586: C=4297, B=703, M=346, S=4654
+Iteration 587: C=4316, B=684, M=358, S=4642
+Iteration 588: C=4316, B=684, M=344, S=4656
+Iteration 589: C=4304, B=696, M=367, S=4633
+Iteration 590: C=4325, B=675, M=357, S=4643
+Iteration 591: C=4312, B=688, M=303, S=4697
+Iteration 592: C=4331, B=669, M=316, S=4684
+Iteration 593: C=4325, B=675, M=350, S=4650
+Iteration 594: C=4309, B=691, M=333, S=4667
+Iteration 595: C=4304, B=696, M=342, S=4658
+Iteration 596: C=4331, B=669, M=315, S=4685
+Iteration 597: C=4354, B=646, M=355, S=4645
+Iteration 598: C=4326, B=674, M=331, S=4669
+Iteration 599: C=4322, B=678, M=338, S=4662
+Iteration 600: C=4316, B=684, M=322, S=4678
+Iteration 601: C=4323, B=677, M=330, S=4670
+Iteration 602: C=4312, B=688, M=314, S=4686
+Iteration 603: C=4337, B=663, M=321, S=4679
+Iteration 604: C=4348, B=652, M=314, S=4686
+Iteration 605: C=4326, B=674, M=316, S=4684
+Iteration 606: C=4343, B=657, M=310, S=4690
+Iteration 607: C=4339, B=661, M=304, S=4696
+Iteration 608: C=4336, B=664, M=336, S=4664
+Iteration 609: C=4316, B=684, M=317, S=4683
+Iteration 610: C=4348, B=652, M=312, S=4688
+Iteration 611: C=4296, B=704, M=317, S=4683
+Iteration 612: C=4355, B=645, M=304, S=4696
+Iteration 613: C=4326, B=674, M=295, S=4705
+Iteration 614: C=4333, B=667, M=308, S=4692
+Iteration 615: C=4348, B=652, M=311, S=4689
+Iteration 616: C=4345, B=655, M=330, S=4670
+Iteration 617: C=4340, B=660, M=305, S=4695
+Iteration 618: C=4325, B=675, M=327, S=4673
+Iteration 619: C=4337, B=663, M=311, S=4689
+Iteration 620: C=4337, B=663, M=298, S=4702
+Iteration 621: C=4338, B=662, M=314, S=4686
+Iteration 622: C=4313, B=687, M=280, S=4720
+Iteration 623: C=4341, B=659, M=304, S=4696
+Iteration 624: C=4341, B=659, M=296, S=4704
+Iteration 625: C=4342, B=658, M=294, S=4706
+Iteration 626: C=4345, B=655, M=290, S=4710
+Iteration 627: C=4338, B=662, M=326, S=4674
+Iteration 628: C=4335, B=665, M=297, S=4703
+Iteration 629: C=4323, B=677, M=301, S=4699
+Iteration 630: C=4345, B=655, M=335, S=4665
+Iteration 631: C=4357, B=643, M=304, S=4696
+Iteration 632: C=4355, B=645, M=303, S=4697
+Iteration 633: C=4306, B=694, M=299, S=4701
+Iteration 634: C=4331, B=669, M=273, S=4727
+Iteration 635: C=4326, B=674, M=299, S=4701
+Iteration 636: C=4343, B=657, M=298, S=4702
+Iteration 637: C=4357, B=643, M=305, S=4695
+Iteration 638: C=4330, B=670, M=287, S=4713
+Iteration 639: C=4349, B=651, M=299, S=4701
+Iteration 640: C=4332, B=668, M=274, S=4726
+Iteration 641: C=4328, B=672, M=295, S=4705
+Iteration 642: C=4334, B=666, M=282, S=4718
+Iteration 643: C=4331, B=669, M=270, S=4730
+Iteration 644: C=4353, B=647, M=290, S=4710
+Iteration 645: C=4353, B=647, M=292, S=4708
+Iteration 646: C=4347, B=653, M=306, S=4694
+Iteration 647: C=4337, B=663, M=283, S=4717
+Iteration 648: C=4323, B=677, M=288, S=4712
+Iteration 649: C=4328, B=672, M=289, S=4711
+Iteration 650: C=4362, B=638, M=294, S=4706
+Iteration 651: C=4323, B=677, M=277, S=4723
+Iteration 652: C=4339, B=661, M=302, S=4698
+Iteration 653: C=4348, B=652, M=274, S=4726
+Iteration 654: C=4342, B=658, M=272, S=4728
+Iteration 655: C=4341, B=659, M=277, S=4723
+Iteration 656: C=4358, B=642, M=282, S=4718
+Iteration 657: C=4368, B=632, M=294, S=4706
+Iteration 658: C=4332, B=668, M=278, S=4722
+Iteration 659: C=4344, B=656, M=305, S=4695
+Iteration 660: C=4345, B=655, M=266, S=4734
+Iteration 661: C=4361, B=639, M=274, S=4726
+Iteration 662: C=4341, B=659, M=257, S=4743
+Iteration 663: C=4347, B=653, M=278, S=4722
+Iteration 664: C=4318, B=682, M=293, S=4707
+Iteration 665: C=4330, B=670, M=262, S=4738
+Iteration 666: C=4366, B=634, M=294, S=4706
+Iteration 667: C=4347, B=653, M=272, S=4728
+Iteration 668: C=4345, B=655, M=288, S=4712
+Iteration 669: C=4370, B=630, M=270, S=4730
+Iteration 670: C=4383, B=617, M=266, S=4734
+Iteration 671: C=4355, B=645, M=289, S=4711
+Iteration 672: C=4347, B=653, M=256, S=4744
+Iteration 673: C=4355, B=645, M=259, S=4741
+Iteration 674: C=4353, B=647, M=275, S=4725
+Iteration 675: C=4379, B=621, M=276, S=4724
+Iteration 676: C=4360, B=640, M=258, S=4742
+Iteration 677: C=4352, B=648, M=261, S=4739
+Iteration 678: C=4350, B=650, M=269, S=4731
+Iteration 679: C=4359, B=641, M=252, S=4748
+Iteration 680: C=4365, B=635, M=281, S=4719
+Iteration 681: C=4359, B=641, M=284, S=4716
+Iteration 682: C=4357, B=643, M=245, S=4755
+Iteration 683: C=4346, B=654, M=257, S=4743
+Iteration 684: C=4370, B=630, M=262, S=4738
+Iteration 685: C=4365, B=635, M=281, S=4719
+Iteration 686: C=4342, B=658, M=265, S=4735
+Iteration 687: C=4377, B=623, M=256, S=4744
+Iteration 688: C=4362, B=638, M=254, S=4746
+Iteration 689: C=4371, B=629, M=258, S=4742
+Iteration 690: C=4380, B=620, M=274, S=4726
+Iteration 691: C=4359, B=641, M=267, S=4733
+Iteration 692: C=4374, B=626, M=263, S=4737
+Iteration 693: C=4386, B=614, M=260, S=4740
+Iteration 694: C=4368, B=632, M=259, S=4741
+Iteration 695: C=4363, B=637, M=260, S=4740
+Iteration 696: C=4381, B=619, M=260, S=4740
+Iteration 697: C=4369, B=631, M=264, S=4736
+Iteration 698: C=4354, B=646, M=257, S=4743
+Iteration 699: C=4367, B=633, M=257, S=4743
+Iteration 700: C=4347, B=653, M=248, S=4752
+Iteration 701: C=4359, B=641, M=248, S=4752
+Iteration 702: C=4365, B=635, M=250, S=4750
+Iteration 703: C=4371, B=629, M=245, S=4755
+Iteration 704: C=4359, B=641, M=240, S=4760
+Iteration 705: C=4369, B=631, M=269, S=4731
+Iteration 706: C=4354, B=646, M=256, S=4744
+Iteration 707: C=4365, B=635, M=262, S=4738
+Iteration 708: C=4357, B=643, M=261, S=4739
+Iteration 709: C=4374, B=626, M=254, S=4746
+Iteration 710: C=4369, B=631, M=220, S=4780
+Iteration 711: C=4359, B=641, M=235, S=4765
+Iteration 712: C=4385, B=615, M=263, S=4737
+Iteration 713: C=4381, B=619, M=222, S=4778
+Iteration 714: C=4381, B=619, M=240, S=4760
+Iteration 715: C=4367, B=633, M=245, S=4755
+Iteration 716: C=4372, B=628, M=235, S=4765
+Iteration 717: C=4389, B=611, M=248, S=4752
+Iteration 718: C=4364, B=636, M=238, S=4762
+Iteration 719: C=4366, B=634, M=228, S=4772
+Iteration 720: C=4358, B=642, M=227, S=4773
+Iteration 721: C=4382, B=618, M=266, S=4734
+Iteration 722: C=4381, B=619, M=235, S=4765
+Iteration 723: C=4381, B=619, M=249, S=4751
+Iteration 724: C=4377, B=623, M=239, S=4761
+Iteration 725: C=4369, B=631, M=223, S=4777
+Iteration 726: C=4381, B=619, M=247, S=4753
+Iteration 727: C=4384, B=616, M=229, S=4771
+Iteration 728: C=4366, B=634, M=239, S=4761
+Iteration 729: C=4397, B=603, M=247, S=4753
+Iteration 730: C=4380, B=620, M=232, S=4768
+Iteration 731: C=4373, B=627, M=220, S=4780
+Iteration 732: C=4381, B=619, M=245, S=4755
+Iteration 733: C=4369, B=631, M=243, S=4757
+Iteration 734: C=4384, B=616, M=220, S=4780
+Iteration 735: C=4383, B=617, M=245, S=4755
+Iteration 736: C=4397, B=603, M=222, S=4778
+Iteration 737: C=4381, B=619, M=229, S=4771
+Iteration 738: C=4392, B=608, M=225, S=4775
+Iteration 739: C=4378, B=622, M=239, S=4761
+Iteration 740: C=4373, B=627, M=221, S=4779
+Iteration 741: C=4371, B=629, M=236, S=4764
+Iteration 742: C=4361, B=639, M=222, S=4778
+Iteration 743: C=4368, B=632, M=242, S=4758
+Iteration 744: C=4383, B=617, M=226, S=4774
+Iteration 745: C=4375, B=625, M=218, S=4782
+Iteration 746: C=4407, B=593, M=221, S=4779
+Iteration 747: C=4392, B=608, M=224, S=4776
+Iteration 748: C=4379, B=621, M=220, S=4780
+Iteration 749: C=4390, B=610, M=221, S=4779
+Iteration 750: C=4382, B=618, M=224, S=4776
+Iteration 751: C=4380, B=620, M=236, S=4764
+Iteration 752: C=4384, B=616, M=218, S=4782
+Iteration 753: C=4388, B=612, M=218, S=4782
+Iteration 754: C=4373, B=627, M=222, S=4778
+Iteration 755: C=4372, B=628, M=227, S=4773
+Iteration 756: C=4382, B=618, M=225, S=4775
+Iteration 757: C=4385, B=615, M=220, S=4780
+Iteration 758: C=4387, B=613, M=231, S=4769
+Iteration 759: C=4400, B=600, M=219, S=4781
+Iteration 760: C=4395, B=605, M=212, S=4788
+Iteration 761: C=4391, B=609, M=211, S=4789
+Iteration 762: C=4396, B=604, M=205, S=4795
+Iteration 763: C=4380, B=620, M=218, S=4782
+Iteration 764: C=4385, B=615, M=231, S=4769
+Iteration 765: C=4402, B=598, M=226, S=4774
+Iteration 766: C=4374, B=626, M=216, S=4784
+Iteration 767: C=4398, B=602, M=207, S=4793
+Iteration 768: C=4406, B=594, M=204, S=4796
+Iteration 769: C=4383, B=617, M=205, S=4795
+Iteration 770: C=4372, B=628, M=203, S=4797
+Iteration 771: C=4390, B=610, M=198, S=4802
+Iteration 772: C=4389, B=611, M=219, S=4781
+Iteration 773: C=4387, B=613, M=202, S=4798
+Iteration 774: C=4400, B=600, M=205, S=4795
+Iteration 775: C=4376, B=624, M=237, S=4763
+Iteration 776: C=4391, B=609, M=196, S=4804
+Iteration 777: C=4410, B=590, M=212, S=4788
+Iteration 778: C=4393, B=607, M=217, S=4783
+Iteration 779: C=4401, B=599, M=216, S=4784
+Iteration 780: C=4388, B=612, M=205, S=4795
+Iteration 781: C=4375, B=625, M=207, S=4793
+Iteration 782: C=4397, B=603, M=210, S=4790
+Iteration 783: C=4378, B=622, M=194, S=4806
+Iteration 784: C=4397, B=603, M=204, S=4796
+Iteration 785: C=4403, B=597, M=195, S=4805
+Iteration 786: C=4391, B=609, M=208, S=4792
+Iteration 787: C=4393, B=607, M=215, S=4785
+Iteration 788: C=4370, B=630, M=228, S=4772
+Iteration 789: C=4399, B=601, M=192, S=4808
+Iteration 790: C=4394, B=606, M=188, S=4812
+Iteration 791: C=4375, B=625, M=202, S=4798
+Iteration 792: C=4377, B=623, M=205, S=4795
+Iteration 793: C=4397, B=603, M=195, S=4805
+Iteration 794: C=4385, B=615, M=198, S=4802
+Iteration 795: C=4395, B=605, M=201, S=4799
+Iteration 796: C=4396, B=604, M=197, S=4803
+Iteration 797: C=4401, B=599, M=207, S=4793
+Iteration 798: C=4406, B=594, M=211, S=4789
+Iteration 799: C=4395, B=605, M=203, S=4797
+Iteration 800: C=4396, B=604, M=201, S=4799
+Iteration 801: C=4405, B=595, M=189, S=4811
+Iteration 802: C=4386, B=614, M=207, S=4793
+Iteration 803: C=4388, B=612, M=215, S=4785
+Iteration 804: C=4407, B=593, M=207, S=4793
+Iteration 805: C=4384, B=616, M=198, S=4802
+Iteration 806: C=4396, B=604, M=201, S=4799
+Iteration 807: C=4402, B=598, M=194, S=4806
+Iteration 808: C=4404, B=596, M=185, S=4815
+Iteration 809: C=4403, B=597, M=184, S=4816
+Iteration 810: C=4374, B=626, M=182, S=4818
+Iteration 811: C=4399, B=601, M=200, S=4800
+Iteration 812: C=4402, B=598, M=200, S=4800
+Iteration 813: C=4404, B=596, M=183, S=4817
+Iteration 814: C=4387, B=613, M=196, S=4804
+Iteration 815: C=4398, B=602, M=205, S=4795
+Iteration 816: C=4395, B=605, M=191, S=4809
+Iteration 817: C=4397, B=603, M=191, S=4809
+Iteration 818: C=4407, B=593, M=189, S=4811
+Iteration 819: C=4393, B=607, M=188, S=4812
+Iteration 820: C=4399, B=601, M=182, S=4818
+Iteration 821: C=4404, B=596, M=188, S=4812
+Iteration 822: C=4396, B=604, M=187, S=4813
+Iteration 823: C=4401, B=599, M=184, S=4816
+Iteration 824: C=4387, B=613, M=170, S=4830
+Iteration 825: C=4410, B=590, M=197, S=4803
+Iteration 826: C=4388, B=612, M=181, S=4819
+Iteration 827: C=4409, B=591, M=206, S=4794
+Iteration 828: C=4388, B=612, M=191, S=4809
+Iteration 829: C=4393, B=607, M=181, S=4819
+Iteration 830: C=4405, B=595, M=185, S=4815
+Iteration 831: C=4398, B=602, M=192, S=4808
+Iteration 832: C=4386, B=614, M=187, S=4813
+Iteration 833: C=4403, B=597, M=192, S=4808
+Iteration 834: C=4390, B=610, M=183, S=4817
+Iteration 835: C=4403, B=597, M=168, S=4832
+Iteration 836: C=4397, B=603, M=184, S=4816
+Iteration 837: C=4388, B=612, M=193, S=4807
+Iteration 838: C=4399, B=601, M=171, S=4829
+Iteration 839: C=4411, B=589, M=173, S=4827
+Iteration 840: C=4384, B=616, M=167, S=4833
+Iteration 841: C=4380, B=620, M=175, S=4825
+Iteration 842: C=4401, B=599, M=175, S=4825
+Iteration 843: C=4388, B=612, M=193, S=4807
+Iteration 844: C=4403, B=597, M=189, S=4811
+Iteration 845: C=4395, B=605, M=188, S=4812
+Iteration 846: C=4399, B=601, M=172, S=4828
+Iteration 847: C=4402, B=598, M=178, S=4822
+Iteration 848: C=4416, B=584, M=193, S=4807
+Iteration 849: C=4382, B=618, M=169, S=4831
+Iteration 850: C=4406, B=594, M=169, S=4831
+Iteration 851: C=4402, B=598, M=159, S=4841
+Iteration 852: C=4398, B=602, M=175, S=4825
+Iteration 853: C=4396, B=604, M=171, S=4829
+Iteration 854: C=4402, B=598, M=166, S=4834
+Iteration 855: C=4380, B=620, M=167, S=4833
+Iteration 856: C=4415, B=585, M=166, S=4834
+Iteration 857: C=4415, B=585, M=167, S=4833
+Iteration 858: C=4406, B=594, M=170, S=4830
+Iteration 859: C=4394, B=606, M=169, S=4831
+Iteration 860: C=4391, B=609, M=169, S=4831
+Iteration 861: C=4409, B=591, M=161, S=4839
+Iteration 862: C=4413, B=587, M=168, S=4832
+Iteration 863: C=4403, B=597, M=176, S=4824
+Iteration 864: C=4401, B=599, M=173, S=4827
+Iteration 865: C=4410, B=590, M=170, S=4830
+Iteration 866: C=4436, B=564, M=179, S=4821
+Iteration 867: C=4393, B=607, M=179, S=4821
+Iteration 868: C=4395, B=605, M=163, S=4837
+Iteration 869: C=4402, B=598, M=169, S=4831
+Iteration 870: C=4410, B=590, M=166, S=4834
+Iteration 871: C=4404, B=596, M=162, S=4838
+Iteration 872: C=4400, B=600, M=166, S=4834
+Iteration 873: C=4425, B=575, M=174, S=4826
+Iteration 874: C=4422, B=578, M=163, S=4837
+Iteration 875: C=4417, B=583, M=179, S=4821
+Iteration 876: C=4406, B=594, M=161, S=4839
+Iteration 877: C=4412, B=588, M=153, S=4847
+Iteration 878: C=4407, B=593, M=143, S=4857
+Iteration 879: C=4420, B=580, M=154, S=4846
+Iteration 880: C=4398, B=602, M=160, S=4840
+Iteration 881: C=4415, B=585, M=152, S=4848
+Iteration 882: C=4419, B=581, M=169, S=4831
+Iteration 883: C=4416, B=584, M=157, S=4843
+Iteration 884: C=4407, B=593, M=167, S=4833
+Iteration 885: C=4406, B=594, M=161, S=4839
+Iteration 886: C=4418, B=582, M=170, S=4830
+Iteration 887: C=4409, B=591, M=147, S=4853
+Iteration 888: C=4390, B=610, M=154, S=4846
+Iteration 889: C=4407, B=593, M=178, S=4822
+Iteration 890: C=4406, B=594, M=154, S=4846
+Iteration 891: C=4421, B=579, M=172, S=4828
+Iteration 892: C=4396, B=604, M=152, S=4848
+Iteration 893: C=4410, B=590, M=167, S=4833
+Iteration 894: C=4428, B=572, M=151, S=4849
+Iteration 895: C=4414, B=586, M=152, S=4848
+Iteration 896: C=4408, B=592, M=161, S=4839
+Iteration 897: C=4401, B=599, M=152, S=4848
+Iteration 898: C=4424, B=576, M=157, S=4843
+Iteration 899: C=4402, B=598, M=148, S=4852
+Iteration 900: C=4407, B=593, M=166, S=4834
+Iteration 901: C=4418, B=582, M=137, S=4863
+Iteration 902: C=4396, B=604, M=172, S=4828
+Iteration 903: C=4410, B=590, M=151, S=4849
+Iteration 904: C=4424, B=576, M=148, S=4852
+Iteration 905: C=4419, B=581, M=158, S=4842
+Iteration 906: C=4418, B=582, M=160, S=4840
+Iteration 907: C=4403, B=597, M=152, S=4848
+Iteration 908: C=4396, B=604, M=158, S=4842
+Iteration 909: C=4412, B=588, M=164, S=4836
+Iteration 910: C=4421, B=579, M=149, S=4851
+Iteration 911: C=4414, B=586, M=157, S=4843
+Iteration 912: C=4398, B=602, M=146, S=4854
+Iteration 913: C=4415, B=585, M=156, S=4844
+Iteration 914: C=4405, B=595, M=153, S=4847
+Iteration 915: C=4398, B=602, M=144, S=4856
+Iteration 916: C=4418, B=582, M=143, S=4857
+Iteration 917: C=4404, B=596, M=140, S=4860
+Iteration 918: C=4410, B=590, M=151, S=4849
+Iteration 919: C=4416, B=584, M=149, S=4851
+Iteration 920: C=4413, B=587, M=168, S=4832
+Iteration 921: C=4413, B=587, M=144, S=4856
+Iteration 922: C=4411, B=589, M=154, S=4846
+Iteration 923: C=4406, B=594, M=137, S=4863
+Iteration 924: C=4406, B=594, M=153, S=4847
+Iteration 925: C=4420, B=580, M=140, S=4860
+Iteration 926: C=4415, B=585, M=148, S=4852
+Iteration 927: C=4414, B=586, M=154, S=4846
+Iteration 928: C=4417, B=583, M=149, S=4851
+Iteration 929: C=4420, B=580, M=148, S=4852
+Iteration 930: C=4403, B=597, M=147, S=4853
+Iteration 931: C=4406, B=594, M=138, S=4862
+Iteration 932: C=4418, B=582, M=149, S=4851
+Iteration 933: C=4408, B=592, M=151, S=4849
+Iteration 934: C=4411, B=589, M=152, S=4848
+Iteration 935: C=4418, B=582, M=138, S=4862
+Iteration 936: C=4409, B=591, M=148, S=4852
+Iteration 937: C=4408, B=592, M=162, S=4838
+Iteration 938: C=4414, B=586, M=143, S=4857
+Iteration 939: C=4412, B=588, M=144, S=4856
+Iteration 940: C=4433, B=567, M=154, S=4846
+Iteration 941: C=4424, B=576, M=145, S=4855
+Iteration 942: C=4412, B=588, M=124, S=4876
+Iteration 943: C=4417, B=583, M=135, S=4865
+Iteration 944: C=4429, B=571, M=143, S=4857
+Iteration 945: C=4408, B=592, M=132, S=4868
+Iteration 946: C=4411, B=589, M=146, S=4854
+Iteration 947: C=4410, B=590, M=162, S=4838
+Iteration 948: C=4409, B=591, M=142, S=4858
+Iteration 949: C=4420, B=580, M=139, S=4861
+Iteration 950: C=4420, B=580, M=144, S=4856
+Iteration 951: C=4415, B=585, M=131, S=4869
+Iteration 952: C=4423, B=577, M=148, S=4852
+Iteration 953: C=4422, B=578, M=126, S=4874
+Iteration 954: C=4424, B=576, M=136, S=4864
+Iteration 955: C=4418, B=582, M=125, S=4875
+Iteration 956: C=4422, B=578, M=150, S=4850
+Iteration 957: C=4427, B=573, M=145, S=4855
+Iteration 958: C=4417, B=583, M=123, S=4877
+Iteration 959: C=4427, B=573, M=144, S=4856
+Iteration 960: C=4416, B=584, M=130, S=4870
+Iteration 961: C=4419, B=581, M=133, S=4867
+Iteration 962: C=4412, B=588, M=131, S=4869
+Iteration 963: C=4413, B=587, M=150, S=4850
+Iteration 964: C=4413, B=587, M=128, S=4872
+Iteration 965: C=4419, B=581, M=140, S=4860
+Iteration 966: C=4427, B=573, M=128, S=4872
+Iteration 967: C=4417, B=583, M=128, S=4872
+Iteration 968: C=4424, B=576, M=133, S=4867
+Iteration 969: C=4409, B=591, M=118, S=4882
+Iteration 970: C=4419, B=581, M=133, S=4867
+Iteration 971: C=4429, B=571, M=134, S=4866
+Iteration 972: C=4424, B=576, M=143, S=4857
+Iteration 973: C=4408, B=592, M=128, S=4872
+Iteration 974: C=4422, B=578, M=137, S=4863
+Iteration 975: C=4418, B=582, M=135, S=4865
+Iteration 976: C=4413, B=587, M=143, S=4857
+Iteration 977: C=4417, B=583, M=120, S=4880
+Iteration 978: C=4409, B=591, M=141, S=4859
+Iteration 979: C=4421, B=579, M=124, S=4876
+Iteration 980: C=4417, B=583, M=136, S=4864
+Iteration 981: C=4418, B=582, M=155, S=4845
+Iteration 982: C=4429, B=571, M=137, S=4863
+Iteration 983: C=4413, B=587, M=133, S=4867
+Iteration 984: C=4425, B=575, M=133, S=4867
+Iteration 985: C=4405, B=595, M=141, S=4859
+Iteration 986: C=4421, B=579, M=133, S=4867
+Iteration 987: C=4426, B=574, M=125, S=4875
+Iteration 988: C=4416, B=584, M=133, S=4867
+Iteration 989: C=4421, B=579, M=140, S=4860
+Iteration 990: C=4418, B=582, M=131, S=4869
+Iteration 991: C=4416, B=584, M=121, S=4879
+Iteration 992: C=4430, B=570, M=114, S=4886
+Iteration 993: C=4430, B=570, M=126, S=4874
+Iteration 994: C=4421, B=579, M=123, S=4877
+Iteration 995: C=4414, B=586, M=139, S=4861
+Iteration 996: C=4424, B=576, M=130, S=4870
+Iteration 997: C=4450, B=550, M=120, S=4880
+Iteration 998: C=4425, B=575, M=124, S=4876
+Iteration 999: C=4423, B=577, M=123, S=4877
+Iteration 1000: C=4435, B=565, M=109, S=4891
